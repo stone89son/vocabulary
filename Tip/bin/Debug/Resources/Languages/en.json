@@ -1,0 +1,95 @@
+﻿{ 
+  "App":
+     {
+	 "Status":{ 
+	   "AddSuccess":"Successful Added !",
+	   "EditSuccess":"Successful Edited !",
+	   "FindSuccess":"Successful Searched !",
+	   "DelSuccess":"Successful Deleted",
+	   "DelAllSuccess":"Successful Deleted All",
+	   "AddFaile":"Add unsuccessful!",
+	   "FindFaile":"Find unsuccessful!",
+	   "EditFaile":"Edit unsuccessful!",
+	   "DelFaile":"Delete unsuccessful!",
+	   "DelAllFaile":"Delete All unsuccessful!",
+	   "WarningDelAll":"Do you want to delete all?",
+	   "WarningDelAllTitle":"Announcement!",
+	   "CancelDelAll":"You have cancel delete all!"
+	   
+	 },
+	 "MainForm":{
+	  
+	   "Option":"Option",
+	   "langugesToolStripMenuItem":"Language",
+	   "autoLearnToolStripMenuItem":"Auto Learn",
+	   "aboutToolStripMenuItem":"About",
+
+	   "lbLanguageLearn":"Vocabulary",
+	   "lbMean":"Mean",
+	   "lbSpeak":"Sound",
+	   "bntChooseSound":"Choose",
+	   "lbGenre":"Genre",
+	   "bntChooseImage":"Choose",
+       "lbPronounce":"Pronounce",
+	   "lbExample":"Example、",
+	   "lbDate":"Date Add",
+	   "bntAdd":"Add",
+	   "bntEdit":"Edit",
+	   "bntFind":"Find",
+	   "bntDel":"Delete",
+	   "bntDelAll":"Delete all",
+
+	   "clIndex":"Index",
+	   "clUrlImage":"Image Url",
+	   "clDate":"Added day",
+	   "ChooseImageText":"Choose",
+	   "ChooseSoundText":"Choose"
+	 },
+	 "fConfigAutoTip":{ 
+	   "Title":"Automatic learning",
+	   "lbDateStart":"Date Start",
+       "lbDateEnd":"Date End",
+	   "lbTimeChangeWord":"Time change word",
+	    "bntOk":"Ok"
+	 
+	 },
+	 "fLanguages":{ 
+	   "Title":"Language Options",
+	   "lbChooseLanguages":"Choose Languages",
+	   "bntOk":"Ok"
+	 },
+    "fTip":{ 
+	  
+	   "formMainToolStripMenuItem":"Manage Application",
+	   "optionToolStripMenuItem":"Option Auto learn",
+	   "stopToolStripMenuItemStop":"Stop",
+	   "stopToolStripMenuItemStart":"Run",
+	   "exitToolStripMenuItem":"Exit",
+	   "lbLearnWord":"Vocabulary",
+	   "lbMean":"Mean",
+	   "lbPronounce":"Pronounce",
+	   "lbEx":"Example"
+	 },
+	 	 "fAbout":{ 
+	  
+	   "Title":"Information Developer",
+	   "grbInfoSoft":"About",
+	   "gbDevApp":"Development Tip v1.0",
+	   "rtext":"Fisrt. Welcome to Duc Son Software Center
+
+-Phần mềm Tip 1.0 được xây dựng ngày 27/07/2013 với chức năng cơ bản đễ học ngoại ngữ
+
+-Phần mềm dành cho tất cả các bạn học ngoại ngữ được tốt hơn, nhớ tốt những từ mới hơn....
+
+-Phần mềm được xuất bản đa ngôn ngữ để cho tất cả mọi người trên thế giới có thể sử dụng một cách dễ dàng hơn
+hiện tại phần mềm sẽ hỗ trợ 3 ngôn ngữ : Vietnamese, English, Japanese
+ 
+-Mình cần sự giúp đỡ của các Bạn để phần mềm được tốt hơn, hỗ trợ tất cả các ngôn ngữ trên thế giới
+. Rất mong các Bạn góp sức cùng mình. Mọi thông tin chi tiết xin gửi về:  https://www.facebook.com/DSSoftware"
+	 }
+
+
+
+	 }
+    
+}

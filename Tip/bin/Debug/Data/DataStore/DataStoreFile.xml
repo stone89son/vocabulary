@@ -1,0 +1,355 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+  <Entity>
+    <Id>f149f9e0-494a-4764-a9a3-755ca45c8f16</Id>
+    <Japanese>おろします</Japanese>
+    <Pronounce>a</Pronounce>
+    <Mean>cho xuống, hạ xuống</Mean>
+    <Genre>a</Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>d5977159-65eb-46d9-920e-77497cfada7e</Id>
+    <Japanese>とどけます</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>gởi đến, chuyển đến</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>e15c7351-1501-469c-9f2d-20ae2ab8f744</Id>
+    <Japanese>せわをします</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>chăm sóc</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>55538cb1-f3f0-4ea2-93d7-e1effbd98837</Id>
+    <Japanese>いや[な]</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>ngán, không thích</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>5e61cb49-c047-4eb6-8702-2b8d15f0ed89</Id>
+    <Japanese>きびしい</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>nghiêm, nghiêm khắc, nghiêm ngặt</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>79556e5b-739e-47d3-8038-91b13368e0d0</Id>
+    <Japanese>じゅく</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>cơ sở học thêm</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>c59919e6-a0dd-4be1-9de1-45c2dd69d2af</Id>
+    <Japanese>スケジュール</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>thời khóa biểu, lịch làm việc</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>2e80e0cd-4258-43ba-b1ee-77f532e49a18</Id>
+    <Japanese>せいと</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>học sinh, học trò</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>9eb99e7d-5de4-4df7-ab9a-b1076e21a2b6</Id>
+    <Japanese>もの</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>người (là người thân hoặc cấp dưới)</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>25081b13-ea1b-4732-a200-5618245fa1f3</Id>
+    <Japanese>にゅうかん</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>Cục quản lý nhập cảnh</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>92ee10d3-2c67-4452-8204-71a1a70fcbfd</Id>
+    <Japanese>さいにゅうこくビザ</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>Thị thực tái nhập cảnh</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>a5b2b87a-c934-46a8-81fd-6f9045b93c3f</Id>
+    <Japanese>じゆうに</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>tự do</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>92f0f600-09e4-463a-8ed2-352ea972c8b1</Id>
+    <Japanese>～かん</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>trong ~ (dùng để chỉ khoảng thời gian)</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>10992d21-60a0-440d-bb35-55d86410c734</Id>
+    <Japanese>いいことですね。</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>Hay nhỉ./ Được đấy nhỉ.</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>4402e5c0-f0d1-47bf-8d26-7372a384a160</Id>
+    <Japanese>おいそがしいですか</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>Anh/chị có bận không? (được dùng khi nói với người trên)</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>1fe6f4e2-1b13-4501-bb85-110f9634bcec</Id>
+    <Japanese>ひさしぶり</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>lâu</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>1a335c0b-c5c2-4771-949d-ba909bf22b19</Id>
+    <Japanese>えいぎょう</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>kinh doanh, bán hàng</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>35c46892-7931-481d-9042-8b492af2a554</Id>
+    <Japanese>それまでに</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>trước thời điểm đó</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>6ec48515-7065-41e0-9b65-f4fd3d5f330c</Id>
+    <Japanese>かまいません</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>Không sao./ Không có vấn đề gì.</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>afea4cb8-6631-4608-a6cf-4e59b3737b3b</Id>
+    <Japanese>たのしみます</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>vui, vui thích</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>63aece1f-a7ea-4482-9a42-f37e57b0ed89</Id>
+    <Japanese>もともと</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>vốn dĩ</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>b1120387-158c-4796-ad60-7eac34fe739b</Id>
+    <Japanese>―せいき</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>thế kỷ -</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>4344b955-052d-418d-9804-8f7a8eb21d8f</Id>
+    <Japanese>かわりをします</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>thay thế</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>9185d0de-b684-42ca-8466-5b52bd6d2233</Id>
+    <Japanese>スピード</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>tốc độ</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>573bc38b-b7c7-43ee-8e3f-102a14a13291</Id>
+    <Japanese>きょうそうします</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>chạy đua, thi chạy</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>edd60820-00cf-438b-8193-3e6c73ce9505</Id>
+    <Japanese>サーカス</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>xiếc</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>53185c58-fe3a-4ca7-ac8e-5fa3802efaa4</Id>
+    <Japanese>げい</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>trò diễn, tiết mục, tài năng</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>859c36b9-f129-4c0f-920c-c4d6f0ff6bab</Id>
+    <Japanese>うつくしい</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>đẹp</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>6bc049f8-e83f-493a-81ab-f28d56599eb7</Id>
+    <Japanese>すがた</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>dáng điệu, tư thế</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>c635afa1-1ff2-41cd-9d8e-2607ee9c763d</Id>
+    <Japanese>こころ</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>trái tim, tấm lòng, cảm tình</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>542d2a0d-7776-4150-8fdd-cf44a7baf004</Id>
+    <Japanese>とらえます</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>giành được</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>ca10de94-05c1-4bd8-86d5-2384e0705f83</Id>
+    <Japanese>～にとって</Japanese>
+    <Pronounce></Pronounce>
+    <Mean>đối với ~</Mean>
+    <Genre></Genre>
+    <Example />
+    <Speak />
+    <Date>27/04/2015</Date>
+    <Picture></Picture>
+  </Entity>
+</DocumentElement>

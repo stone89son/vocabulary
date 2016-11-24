@@ -1,0 +1,95 @@
+﻿{ 
+  "App":
+     {
+	 "Status":{ 
+	   "AddSuccess":"Thêm thành công",
+	   "EditSuccess":"Sửa thành công",
+	   "FindSuccess":"Tìm kiếm thành công",
+	   "DelSuccess":"Xóa thành công",
+	   "DelAllSuccess":"Xóa tất cả thành công",
+	   "AddFaile":"Thêm không thành công",
+	   "FindFaile":"Tìm kiếm không thành công",
+	   "EditFaile":"Sửa không thành công",
+	   "DelFaile":"Xóa không thành công",
+	   "DelAllFaile":"Xóa tất cả không thành công",
+	   "WarningDelAll":"Bạn muốn xóa tất cả?",
+	   "WarningDelAllTitle":"Thông báo!",
+	   "CancelDelAll":"Bạn đã hủy xóa tất cả!"
+	
+	   
+	 },
+	 "MainForm":{
+	  
+	   "Option":"Tự chọn",
+	   "langugesToolStripMenuItem":"Ngôn ngữ",
+	   "autoLearnToolStripMenuItem":"Tự động học",
+	   "aboutToolStripMenuItem":"Về tôi",
+           "statusnotFound":"Không tìm thấy",
+
+	   "lbLanguageLearn":"Từ mới",
+	   "lbMean":"Hán-Việt",
+	   "lbSpeak":"Cách nhớ",
+	   "bntChooseSound":"Chọn File",
+	   "lbGenre":"Loại từ",
+	   "bntChooseImage":"Chọn ảnh",
+       "lbPronounce":"Cách phát âm",
+	   "lbExample":"Ý Nghĩa",
+	   "lbDate":"Ngày",
+	   "bntAdd":"Thêm",
+	   "bntEdit":"Sửa",
+	   "bntFind":"Tìm kiếm",
+	   "bntDel":"Xóa",
+	   "bntDelAll":"Xóa tất cả",
+
+	   "clIndex":"STT",
+	   "clUrlImage":"Đường dẫn ảnh",
+	   "clDate":"Ngày thêm",
+	   "ChooseImageText":"Chọn ảnh",
+	   "ChooseSoundText":"Chọn âm thanh"
+	 },
+	 "fConfigAutoTip":{ 
+	   "Title":"Tự động học",
+	   "lbDateStart":"Ngày bắt đầu",
+       "lbDateEnd":"Ngày kết thúc",
+	   "lbTimeChangeWord":"Thời gian thay đổi",
+	    "bntOk":"Đồng ý"
+	 
+	 },
+	 "fLanguages":{ 
+	   "Title":"Tùy chọn ngôn ngữ",
+	   "lbChooseLanguages":"Chọn ngôn ngữ",
+	   "bntOk":"Đồng ý"
+	 },
+	  "fTip":{ 
+	  
+	   "formMainToolStripMenuItem":"Quản lý từ mới",
+	   "optionToolStripMenuItem":"Tự chọn tự động học",
+	   "stopToolStripMenuItemStop":"Dừng",
+	   "stopToolStripMenuItemStart":"Chạy",
+	   "exitToolStripMenuItem":"Thoát",
+	   "lbLearnWord":"Từ mới",
+	   "lbMean":"Hán-Việt",
+	   "lbPronounce":"Phát âm",
+	   "lbEx":"Nghĩa"
+	 },
+	 "fAbout":{ 
+	  
+	   "Title":"Thông tin nhà phát triển",
+	   "grbInfoSoft":"Về tôi",
+	   "gbDevApp":"Phát triển ứng dụng Tip v1.0",
+	   "rtext":"Đầu tiên. Mình xin chào các bạn đến với Duc Son Software Center
+
+-Phần mềm Tip 1.0 được xây dựng ngày 27/07/2013 với chức năng cơ bản đễ học ngoại ngữ
+
+-Phần mềm dành cho tất cả các bạn học ngoại ngữ được tốt hơn, nhớ tốt những từ mới hơn....
+
+-Phần mềm được xuất bản đa ngôn ngữ để cho tất cả mọi người trên thế giới có thể sử dụng một cách dễ dàng hơn
+hiện tại phần mềm sẽ hỗ trợ 3 ngôn ngữ : Vietnamese, English, Japanese
+ 
+-Mình cần sự giúp đỡ của các Bạn để phần mềm được tốt hơn, hỗ trợ tất cả các ngôn ngữ trên thế giới
+. Rất mong các Bạn góp sức cùng mình. Mọi thông tin chi tiết xin gửi về:  https://www.facebook.com/DSSoftware"
+	 }
+
+	 }
+    
+}

@@ -1,0 +1,2962 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<DocumentElement>
+  <Entity>
+    <Id>95f01958-8900-4a4d-bc18-be404c0e35fc</Id>
+    <Japanese>一</Japanese>
+    <Pronounce>ichi, itsu</Pronounce>
+    <Mean>nhất</Mean>
+    <Genre></Genre>
+    <Example></Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture>一.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>b2e1e88d-94c5-4fac-81ae-24940e109ee7</Id>
+    <Japanese>三</Japanese>
+    <Pronounce>san</Pronounce>
+    <Mean>tam</Mean>
+    <Genre></Genre>
+    <Example>3</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>2818d627-8f20-4a2b-b552-5405cd07b13c</Id>
+    <Japanese>四</Japanese>
+    <Pronounce>shi</Pronounce>
+    <Mean>tứ</Mean>
+    <Genre></Genre>
+    <Example>4</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>20b042c7-35f2-4fe6-8602-471f6069df39</Id>
+    <Japanese>二</Japanese>
+    <Pronounce>ni</Pronounce>
+    <Mean>nhị</Mean>
+    <Genre></Genre>
+    <Example>2</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>56d25dda-e096-404c-8839-23218000830f</Id>
+    <Japanese>道</Japanese>
+    <Pronounce>doo, too</Pronounce>
+    <Mean>đạo</Mean>
+    <Genre></Genre>
+    <Example>[Đường] đạo lộ, đạo đức, đạo lí</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture>道.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>aa7f9191-2dda-4b99-826c-4911562064cd</Id>
+    <Japanese>六</Japanese>
+    <Pronounce>roku</Pronounce>
+    <Mean>lục</Mean>
+    <Genre></Genre>
+    <Example>6</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>d926e51d-ddc3-4831-85bd-06bcf4c10449</Id>
+    <Japanese>八</Japanese>
+    <Pronounce>hachi</Pronounce>
+    <Mean>bát</Mean>
+    <Genre></Genre>
+    <Example>8</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>9973c961-6d06-47a4-b201-95d423df0be2</Id>
+    <Japanese>七</Japanese>
+    <Pronounce>shichi</Pronounce>
+    <Mean>thất</Mean>
+    <Genre></Genre>
+    <Example>7</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>dc62d4b9-d3c9-4754-ae67-c0817b104503</Id>
+    <Japanese>千</Japanese>
+    <Pronounce>sen</Pronounce>
+    <Mean>thiên</Mean>
+    <Genre></Genre>
+    <Example>nghìn, nhiều, thiên lí</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>338453ae-4562-4ae7-8511-10c939dfdaf9</Id>
+    <Japanese>万</Japanese>
+    <Pronounce>man, ban</Pronounce>
+    <Mean>vạn</Mean>
+    <Genre></Genre>
+    <Example>vạn, nhiều, vạn vật</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>fa79c3c3-d578-4a2e-b6fe-20b04852e319</Id>
+    <Japanese>円</Japanese>
+    <Pronounce>en</Pronounce>
+    <Mean>viên</Mean>
+    <Genre></Genre>
+    <Example>viên mãn, tiền Yên</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>1ea4d58d-1917-4f25-aeb7-d1259d7eac13</Id>
+    <Japanese>目</Japanese>
+    <Pronounce>moku, boku</Pronounce>
+    <Mean>mục</Mean>
+    <Genre></Genre>
+    <Example>mắt, hạng mục, mục lục</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>81dce37d-015f-44c5-abde-eef18d077681</Id>
+    <Japanese>日</Japanese>
+    <Pronounce>nichi, jitsu</Pronounce>
+    <Mean>nhật</Mean>
+    <Genre></Genre>
+    <Example>mặt trời, ngày, nhật thực, nhật báo</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>1952fc93-5647-468d-a485-417ed7d45917</Id>
+    <Japanese>月</Japanese>
+    <Pronounce>getsu, gatsu</Pronounce>
+    <Mean>nguyệt</Mean>
+    <Genre></Genre>
+    <Example>mặt trăng, tháng, nguyệt san, nguyệt thực</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>358abb79-86ff-47dd-aab7-0598ede75c80</Id>
+    <Japanese>火</Japanese>
+    <Pronounce>ka</Pronounce>
+    <Mean>hỏa</Mean>
+    <Genre></Genre>
+    <Example>lửa</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>bf8d9774-8b39-4790-bbb1-59c88d78adfd</Id>
+    <Japanese>水</Japanese>
+    <Pronounce>sui</Pronounce>
+    <Mean>thủy</Mean>
+    <Genre></Genre>
+    <Example>thủy điện</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>7ecb3261-5c1a-4b07-bb31-31b11dcfdb2f</Id>
+    <Japanese>木</Japanese>
+    <Pronounce>boku, moku</Pronounce>
+    <Mean>mộc</Mean>
+    <Genre></Genre>
+    <Example>cây, gỗ</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>7e7fc647-dcd4-4224-bf29-6c1a242a260f</Id>
+    <Japanese>金</Japanese>
+    <Pronounce>kin, kon</Pronounce>
+    <Mean>kim</Mean>
+    <Genre></Genre>
+    <Example>hoàng kim, kim ngân</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>de544fae-7f58-4a12-b36a-b7750e02eb31</Id>
+    <Japanese>土</Japanese>
+    <Pronounce>do, to</Pronounce>
+    <Mean>thổ</Mean>
+    <Genre></Genre>
+    <Example>thổ địa, thổ công</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>39f53a6d-4336-4e57-a641-8736efdfaac5</Id>
+    <Japanese>曜</Japanese>
+    <Pronounce>yoo</Pronounce>
+    <Mean>diệu</Mean>
+    <Genre></Genre>
+    <Example>ngày trong tuần</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>695e6868-88ec-4c31-bc72-f20fd4a73af0</Id>
+    <Japanese>本</Japanese>
+    <Pronounce>hon</Pronounce>
+    <Mean>bản</Mean>
+    <Genre></Genre>
+    <Example>sách, cơ bản, nguyên bản, bản chất</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>aee79977-9dc0-4d5d-8a36-3a94744cdc7c</Id>
+    <Japanese>今</Japanese>
+    <Pronounce>kon, kin</Pronounce>
+    <Mean>kim</Mean>
+    <Genre></Genre>
+    <Example>đương kim, kim nhật</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>82ec2368-24b5-4dd2-9e7d-e31a61a6758d</Id>
+    <Japanese>寺</Japanese>
+    <Pronounce>ji</Pronounce>
+    <Mean>tự</Mean>
+    <Genre></Genre>
+    <Example>chùa</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>18501256-ccb5-4bdb-9786-1e2dae576465</Id>
+    <Japanese>半</Japanese>
+    <Pronounce>han</Pronounce>
+    <Mean>bán</Mean>
+    <Genre></Genre>
+    <Example>bán cầu, bán nguyệt</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>b6db81cf-bf43-4d58-a44f-7cc3b35fde10</Id>
+    <Japanese>刀</Japanese>
+    <Pronounce>too</Pronounce>
+    <Mean>đao</Mean>
+    <Genre></Genre>
+    <Example>cái đao</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>77662ac1-cdff-4b84-8189-7bbbc90cce79</Id>
+    <Japanese>分</Japanese>
+    <Pronounce>bun, fun, bu</Pronounce>
+    <Mean>phân</Mean>
+    <Genre></Genre>
+    <Example>phân số, phân chia</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>66284516-d826-4885-94b3-99f473f41f94</Id>
+    <Japanese>上</Japanese>
+    <Pronounce>joo, shoo</Pronounce>
+    <Mean>thượng</Mean>
+    <Genre></Genre>
+    <Example>thượng tầng, thượng đẳng</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>1f726af3-8b9d-425c-996a-154fba7c09b3</Id>
+    <Japanese>下</Japanese>
+    <Pronounce>ka, ge</Pronounce>
+    <Mean>hạ</Mean>
+    <Genre></Genre>
+    <Example>dưới, hạ đẳng</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>61988e2f-ac50-4043-837c-42d9b81b4285</Id>
+    <Japanese>中</Japanese>
+    <Pronounce>chuu</Pronounce>
+    <Mean>trung</Mean>
+    <Genre></Genre>
+    <Example>trung tâm, trung gian, trung ương</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>0061d9ec-b0cb-4a85-b84b-c78b0738be86</Id>
+    <Japanese>外</Japanese>
+    <Pronounce>gai, ge</Pronounce>
+    <Mean>ngoại</Mean>
+    <Genre></Genre>
+    <Example>ngoài, ngoại thành, ngoại đạo</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>587485a8-35ba-4e24-b78a-13c12bdd1416</Id>
+    <Japanese>右</Japanese>
+    <Pronounce>u, yuu</Pronounce>
+    <Mean>hữu</Mean>
+    <Genre></Genre>
+    <Example>bên phải, hữu ngạn, cánh hữu</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>b3e8b407-8d71-4afa-84e2-94b951e6ecea</Id>
+    <Japanese>工</Japanese>
+    <Pronounce>koo, ku</Pronounce>
+    <Mean>công</Mean>
+    <Genre></Genre>
+    <Example>công tác, công nhân</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>550e66c7-ad86-431d-abde-0bb95fee633d</Id>
+    <Japanese>左</Japanese>
+    <Pronounce>sa</Pronounce>
+    <Mean>tả</Mean>
+    <Genre></Genre>
+    <Example>bên trái, tả hữu, cánh tả</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>25db4dba-19ba-4595-a165-eae3bb24097c</Id>
+    <Japanese>前</Japanese>
+    <Pronounce>zen</Pronounce>
+    <Mean>tiền</Mean>
+    <Genre></Genre>
+    <Example>trước, tiền sử, tiền chiến, mặt tiền</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>55203ec7-f8fb-40f9-84a3-bc4cb14acfb4</Id>
+    <Japanese>後</Japanese>
+    <Pronounce>go, koo</Pronounce>
+    <Mean>hậu</Mean>
+    <Genre></Genre>
+    <Example>sau, hậu quả, hậu sự</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>f9081fb0-61bd-456a-adb4-4aab9782a98b</Id>
+    <Japanese>午</Japanese>
+    <Pronounce>go</Pronounce>
+    <Mean>ngọ</Mean>
+    <Genre></Genre>
+    <Example>chính ngọ</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>5e63671b-3e4f-4f0b-818f-bcac0ebaa2bc</Id>
+    <Japanese>門</Japanese>
+    <Pronounce>mon</Pronounce>
+    <Mean>môn</Mean>
+    <Genre></Genre>
+    <Example>cửa, nhập môn, môn đồ, bộ môn</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>f3dd14a5-e510-4e83-989a-5b3aa1b6262d</Id>
+    <Japanese>間</Japanese>
+    <Pronounce>kan, ken</Pronounce>
+    <Mean>gian</Mean>
+    <Genre></Genre>
+    <Example>trung gian, không gian</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>fbc70662-4d58-4b0c-81bf-643b4a42cd77</Id>
+    <Japanese>東</Japanese>
+    <Pronounce>tou</Pronounce>
+    <Mean>đông</Mean>
+    <Genre></Genre>
+    <Example>phía đông</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>dcc78b12-3c45-4c92-b5c3-1a182e749276</Id>
+    <Japanese>西</Japanese>
+    <Pronounce>sei, sai</Pronounce>
+    <Mean>tây</Mean>
+    <Genre></Genre>
+    <Example>phương tây</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>877c7741-9620-4d78-9cac-3a8a304d72f3</Id>
+    <Japanese>南</Japanese>
+    <Pronounce>nan, na</Pronounce>
+    <Mean>nam</Mean>
+    <Genre></Genre>
+    <Example>phương nam</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>8cf8a360-b0d7-413e-829e-92d34cc3c2eb</Id>
+    <Japanese>北</Japanese>
+    <Pronounce>hoku</Pronounce>
+    <Mean>bắc</Mean>
+    <Genre></Genre>
+    <Example>phương bắc</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>ce0eee5d-b8dc-41b0-bebb-1e27c86a3076</Id>
+    <Japanese>田</Japanese>
+    <Pronounce>den</Pronounce>
+    <Mean>điền</Mean>
+    <Genre></Genre>
+    <Example>điền viên, tá điền</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>7440fd33-e76a-4cae-9b93-500da40e7c96</Id>
+    <Japanese>力</Japanese>
+    <Pronounce>ryoku, riki</Pronounce>
+    <Mean>lực</Mean>
+    <Genre></Genre>
+    <Example>sức lực</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>74f48a0b-ab16-4042-bf26-d82e8065b329</Id>
+    <Japanese>男</Japanese>
+    <Pronounce>dan, nan</Pronounce>
+    <Mean>nam</Mean>
+    <Genre></Genre>
+    <Example>đàn ông, nam giới</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>b27bb032-44a4-489d-8fbf-e1cb90597b05</Id>
+    <Japanese>女</Japanese>
+    <Pronounce>jo, nyo, nyoo</Pronounce>
+    <Mean>nữ</Mean>
+    <Genre></Genre>
+    <Example>phụ nữ</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>80475a0c-3431-45f1-8f17-d63b301f18fe</Id>
+    <Japanese>子</Japanese>
+    <Pronounce>shi, su</Pronounce>
+    <Mean>tử</Mean>
+    <Genre></Genre>
+    <Example>tử tôn, phần tử, phân tử, nguyên tử</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>83d89ef3-b8bb-4094-a3c8-cac2c3c9cf37</Id>
+    <Japanese>学</Japanese>
+    <Pronounce>gaku</Pronounce>
+    <Mean>học</Mean>
+    <Genre></Genre>
+    <Example>học sinh, học thuyết</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>9f9a7304-8f08-45a3-b14b-e6c8c934caba</Id>
+    <Japanese>生</Japanese>
+    <Pronounce>sei, shoo</Pronounce>
+    <Mean>sinh</Mean>
+    <Genre></Genre>
+    <Example>sinh sống, sinh sản</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>9354f783-c59a-49d6-a090-a5b53503784e</Id>
+    <Japanese>先</Japanese>
+    <Pronounce>sen</Pronounce>
+    <Mean>tiên</Mean>
+    <Genre></Genre>
+    <Example>tiên sinh, tiên tiến</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>f82562f8-8988-4623-8834-c10503f98843</Id>
+    <Japanese>何</Japanese>
+    <Pronounce>ka</Pronounce>
+    <Mean>hà</Mean>
+    <Genre></Genre>
+    <Example>cái gì, hà cớ</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>be93bd3f-3375-46dd-8fd6-89034614e9a0</Id>
+    <Japanese>父</Japanese>
+    <Pronounce>fu</Pronounce>
+    <Mean>phụ</Mean>
+    <Genre></Genre>
+    <Example>phụ tử, phụ thân, phụ huynh</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>70c8dff6-6b9f-46fb-8efa-cab5cb852475</Id>
+    <Japanese>母</Japanese>
+    <Pronounce>bo</Pronounce>
+    <Mean>mẫu</Mean>
+    <Genre></Genre>
+    <Example>mẹ, phụ mẫu, mẫu thân</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>4d204d49-a908-4cc0-bbc4-39cf85e09160</Id>
+    <Japanese>年</Japanese>
+    <Pronounce>nen</Pronounce>
+    <Mean>niên</Mean>
+    <Genre></Genre>
+    <Example>năm, niên đại</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>5ee42d7b-4ecb-4a05-8559-dce8942d249a</Id>
+    <Japanese>去</Japanese>
+    <Pronounce>kyo, ko</Pronounce>
+    <Mean>khứ</Mean>
+    <Genre></Genre>
+    <Example>quá khứ, trừ khử</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>15610c69-2b0f-410d-9b1f-22b027bdbf81</Id>
+    <Japanese>毎</Japanese>
+    <Pronounce>mai</Pronounce>
+    <Mean>mỗi</Mean>
+    <Genre></Genre>
+    <Example>mỗi</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>41f005c5-0587-4e29-bb1d-d1c2831ae059</Id>
+    <Japanese>王</Japanese>
+    <Pronounce>ou</Pronounce>
+    <Mean>vương</Mean>
+    <Genre></Genre>
+    <Example>vương giả</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture>王.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>0ec9bf95-c985-4ec7-96c9-ff8e64b3df7e</Id>
+    <Japanese>国</Japanese>
+    <Pronounce>koku</Pronounce>
+    <Mean>quốc</Mean>
+    <Genre></Genre>
+    <Example>nước, quốc gia, quốc ca</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>69fa26ac-cdc3-4ea0-baca-9761885b4b07</Id>
+    <Japanese>見</Japanese>
+    <Pronounce>ken</Pronounce>
+    <Mean>kiến</Mean>
+    <Genre></Genre>
+    <Example>ý kiến</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>f6b1121e-8884-45c3-aa16-83e86eb93d49</Id>
+    <Japanese>行</Japanese>
+    <Pronounce>koo, gyoo, an</Pronounce>
+    <Mean>hành, hàng</Mean>
+    <Genre></Genre>
+    <Example>thực hành, lữ hành; ngân hàng</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>30303340-1c17-4764-b54c-1a72acc968e7</Id>
+    <Japanese>米</Japanese>
+    <Pronounce>bei, mai</Pronounce>
+    <Mean>mễ</Mean>
+    <Genre></Genre>
+    <Example>gạo</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>6c507916-f0dd-47b4-8f72-5b606889d78a</Id>
+    <Japanese>来</Japanese>
+    <Pronounce>rai</Pronounce>
+    <Mean>lai</Mean>
+    <Genre></Genre>
+    <Example>đến, tương lai, vị lai</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>efbbaf38-8206-48f9-91ab-b0213d891338</Id>
+    <Japanese>良</Japanese>
+    <Pronounce>ryoo</Pronounce>
+    <Mean>lương</Mean>
+    <Genre></Genre>
+    <Example>tốt, lương tâm, lương tri</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>a2a980fc-9894-46aa-8aea-7059c948652d</Id>
+    <Japanese>食</Japanese>
+    <Pronounce>shoku, jiki</Pronounce>
+    <Mean>thực</Mean>
+    <Genre></Genre>
+    <Example>ẩm thực, thực đường</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>31aa17be-ca6d-40b2-8bc2-a582be22e8d6</Id>
+    <Japanese>飲</Japanese>
+    <Pronounce>in</Pronounce>
+    <Mean>ẩm</Mean>
+    <Genre></Genre>
+    <Example>ẩm thực</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>d46923f3-a983-4441-8a4b-1dff52f1c290</Id>
+    <Japanese>会</Japanese>
+    <Pronounce>kai, e</Pronounce>
+    <Mean>hội</Mean>
+    <Genre></Genre>
+    <Example>hội họp, đại hội</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>8f958476-5c83-4170-88a4-df3d79d114a8</Id>
+    <Japanese>耳</Japanese>
+    <Pronounce>ji</Pronounce>
+    <Mean>nhĩ</Mean>
+    <Genre></Genre>
+    <Example>tai</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>5002ef45-1ea3-400d-8f65-dde6a6548526</Id>
+    <Japanese>聞</Japanese>
+    <Pronounce>bun, mon</Pronounce>
+    <Mean>văn</Mean>
+    <Genre></Genre>
+    <Example>nghe, tân văn (báo)</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>56fb8b0c-31d6-4749-94eb-5bc4cff1a4cf</Id>
+    <Japanese>言</Japanese>
+    <Pronounce>gen, gon</Pronounce>
+    <Mean>ngôn</Mean>
+    <Genre></Genre>
+    <Example>ngôn ngữ, ngôn luận, phát ngôn</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>39d2374c-c3c5-4bc4-9fc2-cde11df28262</Id>
+    <Japanese>話</Japanese>
+    <Pronounce>wa</Pronounce>
+    <Mean>thoại</Mean>
+    <Genre></Genre>
+    <Example>nói chuyện, đối thoại, giai thoại</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>c1b8220b-8627-46bd-ac0a-5a4d5b12fed6</Id>
+    <Japanese>立</Japanese>
+    <Pronounce>ritsu, ryuu</Pronounce>
+    <Mean>lập</Mean>
+    <Genre></Genre>
+    <Example>thiết lập, tự lập</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>54e16631-4f07-4625-bfae-4c52f9332ed8</Id>
+    <Japanese>待</Japanese>
+    <Pronounce>tai</Pronounce>
+    <Mean>đãi</Mean>
+    <Genre></Genre>
+    <Example>đợi, đối đãi</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>4a9e9924-c33d-4769-9f3f-2c1ecf4b996a</Id>
+    <Japanese>周</Japanese>
+    <Pronounce>shuu</Pronounce>
+    <Mean>chu</Mean>
+    <Genre></Genre>
+    <Example>chu vi, chu biên</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>3e4c76df-af7f-462c-b9a5-5656db0a42ca</Id>
+    <Japanese>週</Japanese>
+    <Pronounce>shuu</Pronounce>
+    <Mean>chu</Mean>
+    <Genre></Genre>
+    <Example>tuần</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>70332fd4-5474-4b7e-8406-f276ade21d98</Id>
+    <Japanese>大</Japanese>
+    <Pronounce>dai, tai</Pronounce>
+    <Mean>đại</Mean>
+    <Genre></Genre>
+    <Example>to lớn, đại dương, đại lục</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>f6109cd2-b5b2-4e83-8f9a-0f5e539adbf4</Id>
+    <Japanese>小</Japanese>
+    <Pronounce>shoo</Pronounce>
+    <Mean>tiểu</Mean>
+    <Genre></Genre>
+    <Example>nhỏ, ít</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>a718e75b-6bb4-4c8e-908b-f8b8c6f6370d</Id>
+    <Japanese>高</Japanese>
+    <Pronounce>koo</Pronounce>
+    <Mean>cao</Mean>
+    <Genre></Genre>
+    <Example>cao đẳng, cao thượng</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>144b1546-592f-4e5a-a7a0-175cfbafe6ef</Id>
+    <Japanese>安</Japanese>
+    <Pronounce>an</Pronounce>
+    <Mean>an</Mean>
+    <Genre></Genre>
+    <Example>an bình, an ổn</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>e7f898e2-1c67-42ba-86b6-24c20d01762d</Id>
+    <Japanese>新</Japanese>
+    <Pronounce>shin</Pronounce>
+    <Mean>tân</Mean>
+    <Genre></Genre>
+    <Example>mới, cách tân, tân thời</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>54a5619b-4aba-47a6-88ea-425f95b2f0f7</Id>
+    <Japanese>古</Japanese>
+    <Pronounce>ko</Pronounce>
+    <Mean>cổ</Mean>
+    <Genre></Genre>
+    <Example>cũ, cổ điển, đồ cổ</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>b60eff14-7d4d-4c12-92de-02fd92ada2fa</Id>
+    <Japanese>元</Japanese>
+    <Pronounce>gen, gan</Pronounce>
+    <Mean>nguyên</Mean>
+    <Genre></Genre>
+    <Example>gốc</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>be692137-a6bc-4e38-8608-51b9ee5a1ac6</Id>
+    <Japanese>気</Japanese>
+    <Pronounce>ki, ke</Pronounce>
+    <Mean>khí</Mean>
+    <Genre></Genre>
+    <Example>không khí, khí chất, khí khái, khí phách</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>75941245-37cc-4ff1-b5e7-c6aafc06108e</Id>
+    <Japanese>多</Japanese>
+    <Pronounce>ta</Pronounce>
+    <Mean>đa</Mean>
+    <Genre></Genre>
+    <Example>đa số</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>777caea6-fcdc-4478-ab87-63e4ed937d4b</Id>
+    <Japanese>少</Japanese>
+    <Pronounce>shoo</Pronounce>
+    <Mean>thiếu, thiểu</Mean>
+    <Genre></Genre>
+    <Example>thiếu niên; thiểu số</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>b60f0894-536b-48d3-a6a3-61cb82cac2a1</Id>
+    <Japanese>広</Japanese>
+    <Pronounce>koo</Pronounce>
+    <Mean>quảng</Mean>
+    <Genre></Genre>
+    <Example>quảng trường, quảng đại, Rộng</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>64c0c3a8-31c5-47c5-ba30-69723612a7ee</Id>
+    <Japanese>早</Japanese>
+    <Pronounce>soo, saQ</Pronounce>
+    <Mean>tảo</Mean>
+    <Genre></Genre>
+    <Example>sớm, tảo hôn</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>e19aee0e-3cdb-483d-98cf-c28a99b59f03</Id>
+    <Japanese>長</Japanese>
+    <Pronounce>choo</Pronounce>
+    <Mean>trường, trưởng</Mean>
+    <Genre></Genre>
+    <Example>trường giang, sở trường; hiệu trưởng</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>9ee5734d-d1b0-49c6-9667-812fc17c855c</Id>
+    <Japanese>明</Japanese>
+    <Pronounce>mei, myoo</Pronounce>
+    <Mean>minh</Mean>
+    <Genre></Genre>
+    <Example>quang minh, minh tinh</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>c7f8e517-1b2a-4abc-b69a-324fd314d1fa</Id>
+    <Japanese>好</Japanese>
+    <Pronounce>koo</Pronounce>
+    <Mean>hảo, hiếu</Mean>
+    <Genre></Genre>
+    <Example>hữu hảo; hiếu sắc,thích</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>8f9d30f5-0c94-4a97-a7ec-9b5d5b23d6b2</Id>
+    <Japanese>友</Japanese>
+    <Pronounce>yuu</Pronounce>
+    <Mean>hữu</Mean>
+    <Genre></Genre>
+    <Example>bạn hữu, hữu hảo</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>13058f79-8508-47be-b46b-d232c064fbd5</Id>
+    <Japanese>入</Japanese>
+    <Pronounce>nyuu</Pronounce>
+    <Mean>nhập</Mean>
+    <Genre></Genre>
+    <Example>nhập cảnh, nhập môn, nhập viện</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>26ea77d5-8598-4c11-a4ca-7832d975db05</Id>
+    <Japanese>出</Japanese>
+    <Pronounce>shutsu, sui</Pronounce>
+    <Mean>xuất</Mean>
+    <Genre></Genre>
+    <Example>xuất hiện, xuất phát</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>1bcdb839-63c5-4c32-853d-0ae99169885c</Id>
+    <Japanese>市</Japanese>
+    <Pronounce>shi</Pronounce>
+    <Mean>thị</Mean>
+    <Genre></Genre>
+    <Example>thành thị, thị trường</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>1359f2f9-960e-45bd-b681-a3910517b090</Id>
+    <Japanese>町</Japanese>
+    <Pronounce>choo</Pronounce>
+    <Mean>đinh</Mean>
+    <Genre></Genre>
+    <Example>khu phố</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>0b4613dd-001a-435d-8204-3d27737ad3c6</Id>
+    <Japanese>村</Japanese>
+    <Pronounce>son</Pronounce>
+    <Mean>thôn</Mean>
+    <Genre></Genre>
+    <Example>thôn xã, thôn làng</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>f3a4b42f-7838-43a4-bb35-3613547f0059</Id>
+    <Japanese>雨</Japanese>
+    <Pronounce>u</Pronounce>
+    <Mean>vũ</Mean>
+    <Genre></Genre>
+    <Example>mưa</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>096b1a1d-51f0-4054-bd29-52db0f8210a6</Id>
+    <Japanese>電</Japanese>
+    <Pronounce>den</Pronounce>
+    <Mean>điện</Mean>
+    <Genre></Genre>
+    <Example>phát điện, điện lực</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>8a2f869f-742b-4341-84ac-95e5b085fabf</Id>
+    <Japanese>車</Japanese>
+    <Pronounce>sha</Pronounce>
+    <Mean>xa</Mean>
+    <Genre></Genre>
+    <Example>xe cộ, xa lộ</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>6540da0d-0ef2-46dd-b308-f44ef0d0981f</Id>
+    <Japanese>馬</Japanese>
+    <Pronounce>ba</Pronounce>
+    <Mean>mã</Mean>
+    <Genre></Genre>
+    <Example>ngựa</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>88b3ee79-8e10-4aaf-9a6c-0ef3a724f8e3</Id>
+    <Japanese>駅</Japanese>
+    <Pronounce>eki</Pronounce>
+    <Mean>dịch</Mean>
+    <Genre></Genre>
+    <Example>ga</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>a4eba8ef-ab95-4fc1-8e39-aaf6dcab98e8</Id>
+    <Japanese>社</Japanese>
+    <Pronounce>sha</Pronounce>
+    <Mean>xã</Mean>
+    <Genre></Genre>
+    <Example>xã hội, công xã, hợp tác xã</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>b45dadf6-96c8-4fa2-9149-372cac7b3786</Id>
+    <Japanese>校</Japanese>
+    <Pronounce>koo</Pronounce>
+    <Mean>hiệu</Mean>
+    <Genre></Genre>
+    <Example>trường học</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>4d0eaf93-3274-422e-aca7-066b67337a66</Id>
+    <Japanese>店</Japanese>
+    <Pronounce>ten</Pronounce>
+    <Mean>điếm</Mean>
+    <Genre></Genre>
+    <Example>cửa hàng, tửu điếm</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>2e7d2634-99cd-45c6-8061-abae87007826</Id>
+    <Japanese>銀</Japanese>
+    <Pronounce>gin</Pronounce>
+    <Mean>ngân</Mean>
+    <Genre></Genre>
+    <Example>ngân hàng, ngân lượng, kim ngân</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>2a38446b-36b1-497d-ba13-1d4b66fd1bbb</Id>
+    <Japanese>病</Japanese>
+    <Pronounce>byoo, hei</Pronounce>
+    <Mean>bệnh</Mean>
+    <Genre></Genre>
+    <Example>bệnh nhân, bệnh viện, bệnh tật</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>e29020c5-e8d4-4b52-8eb4-a10f0c222abc</Id>
+    <Japanese>院</Japanese>
+    <Pronounce>in</Pronounce>
+    <Mean>viện</Mean>
+    <Genre></Genre>
+    <Example>học viện, y viện</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>9c121e6c-7d49-4b51-a105-380b4522f56a</Id>
+    <Japanese>休</Japanese>
+    <Pronounce>kyuu</Pronounce>
+    <Mean>hưu</Mean>
+    <Genre></Genre>
+    <Example>hưu trí, hưu nhàn</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>330486fb-9d47-41b5-88f4-4dadf2f4f24d</Id>
+    <Japanese>走</Japanese>
+    <Pronounce>soo</Pronounce>
+    <Mean>tẩu</Mean>
+    <Genre></Genre>
+    <Example>chạy</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>ce5f3566-f224-492f-b8f6-f3d74848fdd9</Id>
+    <Japanese>起</Japanese>
+    <Pronounce>ki</Pronounce>
+    <Mean>khởi</Mean>
+    <Genre></Genre>
+    <Example>khởi động, khởi sự, khởi nghĩa</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>16dc1dae-96e7-4769-95f0-980fe85bf862</Id>
+    <Japanese>貝</Japanese>
+    <Pronounce>か い , が い</Pronounce>
+    <Mean>bối</Mean>
+    <Genre></Genre>
+    <Example>vỏ sò</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>貝.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>70d4deb3-cb50-44f9-8027-f1adc40e59ad</Id>
+    <Japanese>買</Japanese>
+    <Pronounce>bai</Pronounce>
+    <Mean>mãi</Mean>
+    <Genre></Genre>
+    <Example>mua, khuyến mãi</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>買.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>cafe01ef-3477-4950-898e-ba5a8f705542</Id>
+    <Japanese>売</Japanese>
+    <Pronounce>bai</Pronounce>
+    <Mean>mại</Mean>
+    <Genre></Genre>
+    <Example>thương mại</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>売.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>690aae3b-3838-4291-b01b-ce1f5103a649</Id>
+    <Japanese>読</Japanese>
+    <Pronounce>doku, toku, too</Pronounce>
+    <Mean>độc</Mean>
+    <Genre></Genre>
+    <Example>độc giả, độc thư</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>読.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>aa79125a-13ba-4482-83db-43b14fd9eb19</Id>
+    <Japanese>書</Japanese>
+    <Pronounce>sho</Pronounce>
+    <Mean>thư</Mean>
+    <Genre></Genre>
+    <Example>thư đạo, thư tịch, thư kí</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>書.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>81813a82-39a4-49b5-8414-547c7199f896</Id>
+    <Japanese>勉</Japanese>
+    <Pronounce>ben</Pronounce>
+    <Mean>miễn</Mean>
+    <Genre></Genre>
+    <Example>miễn cưỡng, chăm chỉ</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>勉.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>2679d426-0ee1-4347-a869-a42b509a0e3b</Id>
+    <Japanese>弓</Japanese>
+    <Pronounce>kyuu</Pronounce>
+    <Mean>cung</Mean>
+    <Genre></Genre>
+    <Example>cái cung</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>弓.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>ddc056c0-08a3-44c2-afbd-98321efd5bdb</Id>
+    <Japanese>虫</Japanese>
+    <Pronounce>chuu</Pronounce>
+    <Mean>trùng</Mean>
+    <Genre></Genre>
+    <Example>côn trùng</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>虫.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>2415353e-34db-47f6-9cd4-be6a69a74b9a</Id>
+    <Japanese>強</Japanese>
+    <Pronounce>kyoo, goo</Pronounce>
+    <Mean>cường, cưỡng</Mean>
+    <Genre></Genre>
+    <Example>cường quốc; miễn cưỡng</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>強.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>fb499532-0c9a-4751-91ef-13b309ae516f</Id>
+    <Japanese>持</Japanese>
+    <Pronounce>ji</Pronounce>
+    <Mean>trì</Mean>
+    <Genre></Genre>
+    <Example>cầm, duy trì</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>持.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>eea718e7-a78f-4201-814f-7a829a4bb090</Id>
+    <Japanese>名</Japanese>
+    <Pronounce>mei, myoo</Pronounce>
+    <Mean>danh</Mean>
+    <Genre></Genre>
+    <Example>danh tính, địa danh</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>名.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>d3619b60-2f48-4e9e-b1f1-1fc3be28c0c9</Id>
+    <Japanese>語</Japanese>
+    <Pronounce>go</Pronounce>
+    <Mean>ngữ</Mean>
+    <Genre></Genre>
+    <Example>ngôn ngữ, từ ngữ</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>語.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>3d1ddbb8-be03-4e20-83d7-a08b7aba6f56</Id>
+    <Japanese>春</Japanese>
+    <Pronounce>shun</Pronounce>
+    <Mean>xuân</Mean>
+    <Genre></Genre>
+    <Example>mùa xuân, thanh xuân</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>春.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>7e5cccd7-d790-4fee-9ac0-3985606a6c96</Id>
+    <Japanese>夏</Japanese>
+    <Pronounce>ka, ge</Pronounce>
+    <Mean>hạ</Mean>
+    <Genre></Genre>
+    <Example>mùa hè</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>夏.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>d12f793b-4e73-4f4e-8767-2c47ccb16a55</Id>
+    <Japanese>秋</Japanese>
+    <Pronounce>shuu</Pronounce>
+    <Mean>thu</Mean>
+    <Genre></Genre>
+    <Example>mùa thu</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>秋.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>325b38f8-d3ef-47d4-a371-36794d473273</Id>
+    <Japanese>冬</Japanese>
+    <Pronounce>too</Pronounce>
+    <Mean>đông</Mean>
+    <Genre></Genre>
+    <Example>mùa đông</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>冬.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>12f5915b-f97c-490b-be8f-b6915f314ac4</Id>
+    <Japanese>朝</Japanese>
+    <Pronounce>choo</Pronounce>
+    <Mean>triều</Mean>
+    <Genre></Genre>
+    <Example>buổi sáng, triều đình</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>朝.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>e1f680f6-1436-4ce9-94e7-0633da5db04d</Id>
+    <Japanese>昼</Japanese>
+    <Pronounce>chuu</Pronounce>
+    <Mean>trú</Mean>
+    <Genre></Genre>
+    <Example>buổi trưa</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>昼.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>ebad4d94-ad66-4224-85fd-a618a13ea2d9</Id>
+    <Japanese>夕</Japanese>
+    <Pronounce>seki</Pronounce>
+    <Mean>tịch</Mean>
+    <Genre></Genre>
+    <Example>tịch dương</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>夕.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>a49444ed-bb79-4a70-9214-bc5c8e018a45</Id>
+    <Japanese>方</Japanese>
+    <Pronounce>hoo</Pronounce>
+    <Mean>phương</Mean>
+    <Genre></Genre>
+    <Example>phương hướng, phương pháp</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>方.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>6d925bac-849f-482e-b294-bce8591ad074</Id>
+    <Japanese>晩</Japanese>
+    <Pronounce>ban</Pronounce>
+    <Mean>vãn</Mean>
+    <Genre></Genre>
+    <Example>buổi tối</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>晩.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>27a8199b-9ef9-412d-9425-0e2b829f3414</Id>
+    <Japanese>夜</Japanese>
+    <Pronounce>ya</Pronounce>
+    <Mean>dạ</Mean>
+    <Genre></Genre>
+    <Example>ban đêm, dạ cảnh, dạ quang</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>夜.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>1bbb1483-17f1-487a-b719-3839e8ca4cac</Id>
+    <Japanese>心</Japanese>
+    <Pronounce>shin</Pronounce>
+    <Mean>tâm</Mean>
+    <Genre></Genre>
+    <Example>tâm lí, nội tâm</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>心.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>0a201a59-e777-4fb8-b932-29e2f614287f</Id>
+    <Japanese>手</Japanese>
+    <Pronounce>shu</Pronounce>
+    <Mean>thủ</Mean>
+    <Genre></Genre>
+    <Example>tay, thủ đoạn</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>手.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>273fc16b-2c9b-4810-8d4c-26f02014ce65</Id>
+    <Japanese>足</Japanese>
+    <Pronounce>soku</Pronounce>
+    <Mean>túc</Mean>
+    <Genre></Genre>
+    <Example>chân, bổ túc, sung túc</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture />
+  </Entity>
+  <Entity>
+    <Id>e0b02e12-e3a3-492e-8218-edd3bce841bf</Id>
+    <Japanese>体</Japanese>
+    <Pronounce>tai, tei</Pronounce>
+    <Mean>thể</Mean>
+    <Genre></Genre>
+    <Example>hình thể, thân thể, thể thao</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture />
+  </Entity>
+  <Entity>
+    <Id>41f03aaf-b8e8-4738-bae5-a9fb629e5d3c</Id>
+    <Japanese>首</Japanese>
+    <Pronounce>shu</Pronounce>
+    <Mean>thủ</Mean>
+    <Genre></Genre>
+    <Example>đầu, cổ, thủ tướng</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture />
+  </Entity>
+  <Entity>
+    <Id>51780fe9-ea8c-4295-8a1b-5226237ce135</Id>
+    <Japanese>道</Japanese>
+    <Pronounce>doo, too</Pronounce>
+    <Mean>đạo</Mean>
+    <Genre></Genre>
+    <Example>đạo lộ, đạo đức, đạo lí</Example>
+    <Speak />
+    <Date>24/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>7612c9b8-7696-4558-9c99-bcbc7aaca1e6</Id>
+    <Japanese>帰</Japanese>
+    <Pronounce>ki</Pronounce>
+    <Mean>quy</Mean>
+    <Genre></Genre>
+    <Example>hồi quy</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>帰.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>6333144f-c1f9-431c-87b6-084f3ced81b0</Id>
+    <Japanese>山</Japanese>
+    <Pronounce>san</Pronounce>
+    <Mean>sơn</Mean>
+    <Genre></Genre>
+    <Example>núi, sơn hà</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>54db2693-1ac0-4004-b361-4f2c747e927d</Id>
+    <Japanese>川</Japanese>
+    <Pronounce>sen</Pronounce>
+    <Mean>xuyên</Mean>
+    <Genre></Genre>
+    <Example>sông</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>54c1a0c3-e75e-4c16-a03a-6b5c8912e1f7</Id>
+    <Japanese>林</Japanese>
+    <Pronounce>rin</Pronounce>
+    <Mean>lâm</Mean>
+    <Genre></Genre>
+    <Example>lâm sản, lâm nghiệp</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>3d1667db-ebc3-4eb5-98ed-5e1299459504</Id>
+    <Japanese>森</Japanese>
+    <Pronounce>shin</Pronounce>
+    <Mean>sâm</Mean>
+    <Genre></Genre>
+    <Example>rừng</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>a5f285ae-3d8a-4bce-a740-ca3c5b51914e</Id>
+    <Japanese>空</Japanese>
+    <Pronounce>kuu</Pronounce>
+    <Mean>không</Mean>
+    <Genre></Genre>
+    <Example>không khí, hư không, hàng không</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>86f0e892-e963-4991-aabc-5f73d49f78b8</Id>
+    <Japanese>海</Japanese>
+    <Pronounce>kai</Pronounce>
+    <Mean>hải</Mean>
+    <Genre></Genre>
+    <Example>hải cảng, hải phận</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>b7ccec1a-5683-4772-8be6-f089944da4fa</Id>
+    <Japanese>化</Japanese>
+    <Pronounce>ka, ke</Pronounce>
+    <Mean>hóa</Mean>
+    <Genre></Genre>
+    <Example>biến hóa</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>52c756de-ef88-45f6-8d04-52134898b98a</Id>
+    <Japanese>花</Japanese>
+    <Pronounce>ka</Pronounce>
+    <Mean>hoa</Mean>
+    <Genre></Genre>
+    <Example>hoa, bông hoa</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>8476c8b0-0906-47b6-ae1e-45ad0702ebe2</Id>
+    <Japanese>天</Japanese>
+    <Pronounce>ten</Pronounce>
+    <Mean>thiên</Mean>
+    <Genre></Genre>
+    <Example>thiên thạch, thiên nhiên, thiên đường</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>d0245b86-868d-45b3-8b7e-0928c9c9e6f7</Id>
+    <Japanese>赤</Japanese>
+    <Pronounce>seki, shaku</Pronounce>
+    <Mean>xích</Mean>
+    <Genre></Genre>
+    <Example>đỏ, xích kì, xích đạo, xích thập tự</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>fe4b6346-63ed-41f3-ad3b-8aa0f867b752</Id>
+    <Japanese>青</Japanese>
+    <Pronounce>sei, shoo</Pronounce>
+    <Mean>thanh</Mean>
+    <Genre></Genre>
+    <Example>xanh, thanh thiên, thanh niên</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>28bea1a4-8315-4716-b79e-00da43eea395</Id>
+    <Japanese>白</Japanese>
+    <Pronounce>kaku, byaku</Pronounce>
+    <Mean>bạch</Mean>
+    <Genre></Genre>
+    <Example>thanh bạch, bạch sắc</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>ef9096af-bac1-4bb9-a828-79b8ab9a2122</Id>
+    <Japanese>黒</Japanese>
+    <Pronounce>koku</Pronounce>
+    <Mean>hắc</Mean>
+    <Genre></Genre>
+    <Example>đen, hắc ám</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>e0ce87d4-a423-4232-9a7e-29d082240144</Id>
+    <Japanese>色</Japanese>
+    <Pronounce>shoku, shiki</Pronounce>
+    <Mean>sắc</Mean>
+    <Genre></Genre>
+    <Example>màu sắc, sắc dục</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>6cddde97-7eaf-46c5-91ca-99559b459970</Id>
+    <Japanese>魚</Japanese>
+    <Pronounce>gyo</Pronounce>
+    <Mean>ngư</Mean>
+    <Genre></Genre>
+    <Example>cá</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>0e7ba747-3706-42ba-91b0-3df2cc2d98c1</Id>
+    <Japanese>犬</Japanese>
+    <Pronounce>ken</Pronounce>
+    <Mean>khuyển</Mean>
+    <Genre></Genre>
+    <Example>con chó</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>5c32f817-ee10-4047-8f34-b9a883c38053</Id>
+    <Japanese>料</Japanese>
+    <Pronounce>ryoo</Pronounce>
+    <Mean>liệu</Mean>
+    <Genre></Genre>
+    <Example>「Thành phần」nguyên liệu, tài liệu, nhiên liệu</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>料.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>98fa30ea-8fc3-4f6f-be96-94214bb7fd9e</Id>
+    <Japanese>理</Japanese>
+    <Pronounce>ri</Pronounce>
+    <Mean>lí</Mean>
+    <Genre></Genre>
+    <Example>lí do, lí luận, nguyên lí</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>44fe4fcc-be20-422e-a108-167e0f83c281</Id>
+    <Japanese>反</Japanese>
+    <Pronounce>han, hon, tan</Pronounce>
+    <Mean>phản</Mean>
+    <Genre></Genre>
+    <Example>phản loạn, phản đối</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>b15f8ad2-b9a9-4e4e-b935-837d250346bb</Id>
+    <Japanese>飯</Japanese>
+    <Pronounce>han</Pronounce>
+    <Mean>phạn</Mean>
+    <Genre></Genre>
+    <Example>cơm</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>22051c4d-e346-4ebc-9f8d-b7c3302c7249</Id>
+    <Japanese>牛</Japanese>
+    <Pronounce>gyuu</Pronounce>
+    <Mean>ngưu</Mean>
+    <Genre></Genre>
+    <Example>con trâu</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>732a1646-ced1-4dfc-b1e4-665dd5c0a9a3</Id>
+    <Japanese>豚</Japanese>
+    <Pronounce>ton</Pronounce>
+    <Mean>đồn</Mean>
+    <Genre></Genre>
+    <Example>con lợn</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>341dd67a-422b-49cb-8994-0715f2b4699a</Id>
+    <Japanese>鳥</Japanese>
+    <Pronounce>choo</Pronounce>
+    <Mean>điểu</Mean>
+    <Genre></Genre>
+    <Example>chim chóc</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>723335c4-b88d-48b8-a9d5-41d92f0ec550</Id>
+    <Japanese>肉</Japanese>
+    <Pronounce>niku</Pronounce>
+    <Mean>nhục</Mean>
+    <Genre></Genre>
+    <Example>thịt</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>5d8034f9-2d58-4968-9fc2-670e67c1852d</Id>
+    <Japanese>茶</Japanese>
+    <Pronounce>cha, sa</Pronounce>
+    <Mean>trà</Mean>
+    <Genre></Genre>
+    <Example>trà</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>d1658e02-e994-488d-bdbe-f3d55d74d540</Id>
+    <Japanese>予</Japanese>
+    <Pronounce>yo</Pronounce>
+    <Mean>dự</Mean>
+    <Genre></Genre>
+    <Example>dự đoán, dự báo　, nâng cao</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture>予.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>1239400d-8a59-46fb-81dc-6fde9ba661e5</Id>
+    <Japanese>野</Japanese>
+    <Pronounce>ya</Pronounce>
+    <Mean>dã</Mean>
+    <Genre></Genre>
+    <Example>[Lĩnh vực , field ]cánh đồng, hoang dã, thôn dã</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>d25c8f1e-ac55-4b02-bc85-6cbeb133e1de</Id>
+    <Japanese>菜</Japanese>
+    <Pronounce>sai</Pronounce>
+    <Mean>thái</Mean>
+    <Genre></Genre>
+    <Example>rau</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>b285b45a-9298-4df9-b7a7-647f83ae86c2</Id>
+    <Japanese>切</Japanese>
+    <Pronounce>setsu, sai</Pronounce>
+    <Mean>thiết</Mean>
+    <Genre></Genre>
+    <Example>cắt, thiết thực, thân thiết</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>c90efc6e-420a-4c9a-b227-49a7bd6d61b9</Id>
+    <Japanese>作</Japanese>
+    <Pronounce>saku, sa</Pronounce>
+    <Mean>tác</Mean>
+    <Genre></Genre>
+    <Example>tác phẩm, công tác, canh tác</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>b6055a4f-fa2f-454c-8ae8-1f8ece5862ce</Id>
+    <Japanese>未</Japanese>
+    <Pronounce>mi</Pronounce>
+    <Mean>vị</Mean>
+    <Genre></Genre>
+    <Example>vị thành niên, vị lai</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>e0938dc5-bfb6-4488-9412-a8c8345f0522</Id>
+    <Japanese>味</Japanese>
+    <Pronounce>mi</Pronounce>
+    <Mean>vị</Mean>
+    <Genre></Genre>
+    <Example>vị giác, mùi vị</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>f4e9cb6e-72a0-4bbb-a7c5-503c53123370</Id>
+    <Japanese>音</Japanese>
+    <Pronounce>on, in</Pronounce>
+    <Mean>âm</Mean>
+    <Genre></Genre>
+    <Example>âm thanh, phát âm</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>f12cd6bf-0e08-4556-8b17-dc6f21e32c3f</Id>
+    <Japanese>楽</Japanese>
+    <Pronounce>gaku, raku</Pronounce>
+    <Mean>lạc, nhạc</Mean>
+    <Genre></Genre>
+    <Example>an lạc, lạc thú, âm nhạc</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>31ae6e64-5b70-482a-874c-75da04a9df40</Id>
+    <Japanese>歌</Japanese>
+    <Pronounce>ka</Pronounce>
+    <Mean>ca</Mean>
+    <Genre></Genre>
+    <Example>ca dao, ca khúc</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>d2f57b1d-92ff-48ab-bb70-58d567454906</Id>
+    <Japanese>自</Japanese>
+    <Pronounce>ji, shi</Pronounce>
+    <Mean>tự</Mean>
+    <Genre></Genre>
+    <Example>tự do, tự kỉ, tự thân</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>5f9d2b99-5f35-46d2-948c-e0c611c1938b</Id>
+    <Japanese>転</Japanese>
+    <Pronounce>ten</Pronounce>
+    <Mean>chuyển</Mean>
+    <Genre></Genre>
+    <Example>chuyển động</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>ed83544f-020c-4dde-9d4c-cf16712ee90e</Id>
+    <Japanese>乗</Japanese>
+    <Pronounce>joo</Pronounce>
+    <Mean>thừa</Mean>
+    <Genre></Genre>
+    <Example>lên xe</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>cc5b0d82-6696-4fbd-b29b-91aca84ebd85</Id>
+    <Japanese>写</Japanese>
+    <Pronounce>sha</Pronounce>
+    <Mean>tả</Mean>
+    <Genre></Genre>
+    <Example>miêu tả</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>0c554572-81c4-458b-a676-e55c189b9225</Id>
+    <Japanese>真</Japanese>
+    <Pronounce>shin</Pronounce>
+    <Mean>chân</Mean>
+    <Genre></Genre>
+    <Example>chân lí, chân thực</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>dc586156-e530-4070-8bfa-44f276b45e01</Id>
+    <Japanese>台</Japanese>
+    <Pronounce>dai, tai</Pronounce>
+    <Mean>đài</Mean>
+    <Genre></Genre>
+    <Example>lâu đài, đài</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>fbd264f2-3ddb-4512-9a73-d2589067f2e8</Id>
+    <Japanese>央</Japanese>
+    <Pronounce>oo</Pronounce>
+    <Mean>ương</Mean>
+    <Genre></Genre>
+    <Example>trung ương</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>17bc71a2-155a-449c-b630-8287ce8e8690</Id>
+    <Japanese>映</Japanese>
+    <Pronounce>ei</Pronounce>
+    <Mean>ánh</Mean>
+    <Genre></Genre>
+    <Example>phản ánh</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>97bbf4c7-f8f3-44f4-bd72-040ccfce7fb0</Id>
+    <Japanese>画</Japanese>
+    <Pronounce>ga, kaku</Pronounce>
+    <Mean>họa, hoạch</Mean>
+    <Genre></Genre>
+    <Example>họa sĩ; kế hoạch</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>2b89e5ef-7249-4831-8b60-1818ef41bb43</Id>
+    <Japanese>羊</Japanese>
+    <Pronounce>yoo</Pronounce>
+    <Mean>dương</Mean>
+    <Genre></Genre>
+    <Example>con dê, con cừu</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>177bc3f3-39b0-464c-93ab-6a4ab56500f7</Id>
+    <Japanese>洋</Japanese>
+    <Pronounce>yoo</Pronounce>
+    <Mean>dương</Mean>
+    <Genre></Genre>
+    <Example>đại dương, tây dương</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>6e3312a1-4184-4fac-afd2-7bccb5c0c6b7</Id>
+    <Japanese>服</Japanese>
+    <Pronounce>fuku</Pronounce>
+    <Mean>phục</Mean>
+    <Genre></Genre>
+    <Example>y phục, cảm phục, phục vụ</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>5ca9d74a-421b-4ed4-bcba-ee040ffe22fb</Id>
+    <Japanese>着</Japanese>
+    <Pronounce>chaku, jaku</Pronounce>
+    <Mean>trước</Mean>
+    <Genre></Genre>
+    <Example>đến, đáo trước, mặc</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>e1f73e14-852b-4382-ae8b-f59fa730d187</Id>
+    <Japanese>家</Japanese>
+    <Pronounce>ka, ke</Pronounce>
+    <Mean>gia</Mean>
+    <Genre></Genre>
+    <Example>gia đình, chuyên gia</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>bd1a14b5-e933-4d6c-9883-58a0fb92db57</Id>
+    <Japanese>矢</Japanese>
+    <Pronounce>shi</Pronounce>
+    <Mean>thỉ</Mean>
+    <Genre></Genre>
+    <Example>mũi tên</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>76ae088e-9f8d-48de-b049-13231a629c71</Id>
+    <Japanese>族</Japanese>
+    <Pronounce>zoku</Pronounce>
+    <Mean>tộc</Mean>
+    <Genre></Genre>
+    <Example>gia tộc, dân tộc, chủng tộc</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>ee5e63a5-d43a-46cb-8c34-31ff21cacd09</Id>
+    <Japanese>親</Japanese>
+    <Pronounce>shin</Pronounce>
+    <Mean>thân</Mean>
+    <Genre></Genre>
+    <Example>thân thuộc, thân thích, thân thiết</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>bb4743b3-a9e1-44d2-86cc-1aeffd1b6e16</Id>
+    <Japanese>兄</Japanese>
+    <Pronounce>kei, kyoo</Pronounce>
+    <Mean>huynh</Mean>
+    <Genre></Genre>
+    <Example>phụ huynh</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>24b18729-d2fc-4a3b-89af-ec44a236c193</Id>
+    <Japanese>姉</Japanese>
+    <Pronounce>shi</Pronounce>
+    <Mean>tỉ</Mean>
+    <Genre></Genre>
+    <Example>chị gái</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>187b688d-0b7e-47de-a49f-21b3ea3586b7</Id>
+    <Japanese>弟</Japanese>
+    <Pronounce>tei, dai, de</Pronounce>
+    <Mean>đệ</Mean>
+    <Genre></Genre>
+    <Example>đệ tử</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>3c9c768d-264e-452d-af90-b8af3047d14e</Id>
+    <Japanese>妹</Japanese>
+    <Pronounce>mai</Pronounce>
+    <Mean>muội</Mean>
+    <Genre></Genre>
+    <Example>em gái</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>527bc3ac-ae3f-4a63-99e9-aed4bd7e1257</Id>
+    <Japanese>夫</Japanese>
+    <Pronounce>fu, fuu</Pronounce>
+    <Mean>phu</Mean>
+    <Genre></Genre>
+    <Example>trượng phu, phu phụ</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>f5d25fb8-c296-4fdd-9d65-d8b66d47a20e</Id>
+    <Japanese>妻</Japanese>
+    <Pronounce>sai</Pronounce>
+    <Mean>thê</Mean>
+    <Genre></Genre>
+    <Example>thê tử</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>7d8ee4b0-d973-46fb-aa60-b4981013f45b</Id>
+    <Japanese>主</Japanese>
+    <Pronounce>shu, su</Pronounce>
+    <Mean>chủ</Mean>
+    <Genre></Genre>
+    <Example>chủ yếu, chủ nhân</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>1ebb0252-dcbd-43c5-9320-32d5f2912b9a</Id>
+    <Japanese>住</Japanese>
+    <Pronounce>juu</Pronounce>
+    <Mean>trú, trụ</Mean>
+    <Genre></Genre>
+    <Example>cư trú; trụ sở</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>4ecabfbc-cc8a-41bb-b675-3170fdfb5fb4</Id>
+    <Japanese>糸</Japanese>
+    <Pronounce>shi</Pronounce>
+    <Mean>mịch</Mean>
+    <Genre></Genre>
+    <Example>sợ chỉ</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>b988a896-4fcb-4f78-95d5-e972d0d77bb5</Id>
+    <Japanese>氏</Japanese>
+    <Pronounce>shi</Pronounce>
+    <Mean>thị</Mean>
+    <Genre></Genre>
+    <Example>họ</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>21b6ab45-f8a4-473e-ad0f-58bfc6241818</Id>
+    <Japanese>紙</Japanese>
+    <Pronounce>shi</Pronounce>
+    <Mean>chỉ</Mean>
+    <Genre></Genre>
+    <Example>giấy</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>4de6455c-412e-4661-872f-79bdef01b21a</Id>
+    <Japanese>教</Japanese>
+    <Pronounce>kyoo</Pronounce>
+    <Mean>giáo</Mean>
+    <Genre></Genre>
+    <Example>giáo dục, giáo viên</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>9abc8222-21f3-4091-ad42-44eb94ad7b1c</Id>
+    <Japanese>室</Japanese>
+    <Pronounce>shitsu</Pronounce>
+    <Mean>thất</Mean>
+    <Genre></Genre>
+    <Example>phòng, giáo thất</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>72cc682e-f0ec-4c7a-80bd-734e5526a0a7</Id>
+    <Japanese>羽</Japanese>
+    <Pronounce>u</Pronounce>
+    <Mean>vũ</Mean>
+    <Genre></Genre>
+    <Example>lông vũ</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>6e536375-7520-4b7b-8bb2-7e9cb6e8ddd7</Id>
+    <Japanese>習</Japanese>
+    <Pronounce>shuu</Pronounce>
+    <Mean>tập</Mean>
+    <Genre></Genre>
+    <Example>học tập</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>c07682f0-8482-460b-8c10-524c08d25646</Id>
+    <Japanese>漢</Japanese>
+    <Pronounce>kan</Pronounce>
+    <Mean>hán</Mean>
+    <Genre></Genre>
+    <Example>hảo hán</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>5e386764-2709-459f-bf29-b4c10b9ce1d2</Id>
+    <Japanese>字</Japanese>
+    <Pronounce>ji</Pronounce>
+    <Mean>tự</Mean>
+    <Genre></Genre>
+    <Example>chữ, văn tự</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>635e66ab-e761-4321-a154-c19b25085478</Id>
+    <Japanese>式</Japanese>
+    <Pronounce>shiki</Pronounce>
+    <Mean>thức</Mean>
+    <Genre></Genre>
+    <Example>hình thức, phương thức, công thức</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>c50c4eb6-158b-4469-a3c4-1638a12f7245</Id>
+    <Japanese>現</Japanese>
+    <Pronounce>gen</Pronounce>
+    <Mean>hiện</Mean>
+    <Genre></Genre>
+    <Example>xuất hiện, hiện tại, hiện tượng, hiện hình</Example>
+    <Speak />
+    <Date>26/01/2015</Date>
+    <Picture>現.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>32451193-c960-459b-ad87-1931ccd2d49d</Id>
+    <Japanese>宿</Japanese>
+    <Pronounce>shuku</Pronounce>
+    <Mean>túc</Mean>
+    <Genre></Genre>
+    <Example>[Nhà trọ] tá túc, kí túc xá</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>4446a0cd-5cc1-46e1-a563-1918066112d1</Id>
+    <Japanese>題</Japanese>
+    <Pronounce>dai</Pronounce>
+    <Mean>đề</Mean>
+    <Genre></Genre>
+    <Example>đề tài, đề mục, chủ đề</Example>
+    <Speak />
+    <Date>25/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>42aac4c5-a01e-4e78-a1b0-1a478d5ef3fb</Id>
+    <Japanese>文</Japanese>
+    <Pronounce>bun, mon</Pronounce>
+    <Mean>văn</Mean>
+    <Genre></Genre>
+    <Example>văn chương, văn học</Example>
+    <Speak />
+    <Date>26/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>1d1225a3-af54-491a-94ad-01c37dda0c93</Id>
+    <Japanese>英</Japanese>
+    <Pronounce>ei</Pronounce>
+    <Mean>anh</Mean>
+    <Genre></Genre>
+    <Example>anh hùng, anh tú, anh tuấn</Example>
+    <Speak />
+    <Date>26/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>a2e17a30-ddde-402c-8140-ee044b4a05ea</Id>
+    <Japanese>質</Japanese>
+    <Pronounce>shitsu, shichi, chi</Pronounce>
+    <Mean>chất</Mean>
+    <Genre></Genre>
+    <Example>vật chất, phẩm chất, khí chất</Example>
+    <Speak />
+    <Date>26/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>e15e2bd5-87bc-4371-9d6d-6e4053aef042</Id>
+    <Japanese>問</Japanese>
+    <Pronounce>mon</Pronounce>
+    <Mean>vấn</Mean>
+    <Genre></Genre>
+    <Example>vấn đáp, chất vấn, vấn đề</Example>
+    <Speak />
+    <Date>26/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>ae36e559-2acd-40ca-9925-6acee111ab99</Id>
+    <Japanese>説</Japanese>
+    <Pronounce>setsu, zei</Pronounce>
+    <Mean>thuyết</Mean>
+    <Genre></Genre>
+    <Example>[Giải thích] tiểu thuyết, học thuyết, lí thuyết</Example>
+    <Speak />
+    <Date>26/01/2015</Date>
+    <Picture>説.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>0aa3604e-1986-4ef0-be90-f92393efb541</Id>
+    <Japanese>遠</Japanese>
+    <Pronounce>en, on</Pronounce>
+    <Mean>viễn</Mean>
+    <Genre></Genre>
+    <Example>viễn phương, vĩnh viễn</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>db42ef17-d782-4d2c-ad8a-e38ed021975d</Id>
+    <Japanese>近</Japanese>
+    <Pronounce>kin</Pronounce>
+    <Mean>cận</Mean>
+    <Genre></Genre>
+    <Example>thân cận, cận thị, cận cảnh</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>bbdc0328-2eb9-4d3c-8887-154d12c5cbdc</Id>
+    <Japanese>者</Japanese>
+    <Pronounce>sha</Pronounce>
+    <Mean>giả</Mean>
+    <Genre></Genre>
+    <Example>học giả, tác giả</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>dd9a0a07-9fa3-4886-9acb-dffa3feb0ecf</Id>
+    <Japanese>暑</Japanese>
+    <Pronounce>sho</Pronounce>
+    <Mean>thử</Mean>
+    <Genre></Genre>
+    <Example>hè nóng</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>f7d001e7-8eef-4e16-abc9-2093c637da83</Id>
+    <Japanese>寒</Japanese>
+    <Pronounce>kan</Pronounce>
+    <Mean>hàn</Mean>
+    <Genre></Genre>
+    <Example>lạnh</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>fa525a73-a17e-488c-b49e-0f9a544f517a</Id>
+    <Japanese>重</Japanese>
+    <Pronounce>juu, choo</Pronounce>
+    <Mean>trọng, trùng</Mean>
+    <Genre></Genre>
+    <Example>[Nặng] trọng lượng; trùng phùng</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture>重.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>06065a0a-bff0-4a5d-9719-54850546fde5</Id>
+    <Japanese>軽</Japanese>
+    <Pronounce>kei</Pronounce>
+    <Mean>khinh</Mean>
+    <Genre></Genre>
+    <Example>[Đèn] khinh suất, khinh khi</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture>軽.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>d6d16b71-c570-42b0-846e-f80ef63f87af</Id>
+    <Japanese>低</Japanese>
+    <Pronounce>tei</Pronounce>
+    <Mean>đê</Mean>
+    <Genre></Genre>
+    <Example>thấp, đê hèn, đê tiện</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>15e8c420-ca82-43dd-a76d-f592cb084f34</Id>
+    <Japanese>弱</Japanese>
+    <Pronounce>jaku</Pronounce>
+    <Mean>nhược</Mean>
+    <Genre></Genre>
+    <Example>[Yếu] nhược điểm, nhược tiểu</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture>弱.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>ef6979e5-239c-485b-bb65-08f509d559d5</Id>
+    <Japanese>悪</Japanese>
+    <Pronounce>aku, o</Pronounce>
+    <Mean>ác, ố</Mean>
+    <Genre></Genre>
+    <Example>[Tồi kém] hung ác, độc ác; tăng ố</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture>悪.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>60cc3010-55b9-4793-bd6b-4ede142eafac</Id>
+    <Japanese>究</Japanese>
+    <Pronounce>kyuu</Pronounce>
+    <Mean>cứu</Mean>
+    <Genre></Genre>
+    <Example>[Bài 17] tìm hiểu,nghiên cứu, cứu cánh</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture>究.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>244bfabf-c5fe-4595-acbe-73bd229156b1</Id>
+    <Japanese>豆</Japanese>
+    <Pronounce>too, zu</Pronounce>
+    <Mean>đậu</Mean>
+    <Genre></Genre>
+    <Example>hạt đậu</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>de2eb5aa-80fc-43d2-9154-e9e12a148d80</Id>
+    <Japanese>太</Japanese>
+    <Pronounce>tai, ta</Pronounce>
+    <Mean>thái</Mean>
+    <Genre></Genre>
+    <Example>[Dày] thái dương, thái bình</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>fa7fa105-cf02-4670-9750-530f2570257f</Id>
+    <Japanese>暗</Japanese>
+    <Pronounce>an</Pronounce>
+    <Mean>ám</Mean>
+    <Genre></Genre>
+    <Example>[Tối] ám sát</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>cf5f8f87-e8b2-4424-a855-751dd4162895</Id>
+    <Japanese>光</Japanese>
+    <Pronounce>koo</Pronounce>
+    <Mean>quang</Mean>
+    <Genre></Genre>
+    <Example>ánh sáng, nhật quang, quang minh</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>ee99f48b-0f67-4a4f-b50c-8370e7c8dcb4</Id>
+    <Japanese>風</Japanese>
+    <Pronounce>fuu, fu</Pronounce>
+    <Mean>phong</Mean>
+    <Genre></Genre>
+    <Example>[Gió] phong ba, phong cách, phong tục</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>ea4d502a-0f5b-4874-9586-d653522f4ffa</Id>
+    <Japanese>運</Japanese>
+    <Pronounce>un</Pronounce>
+    <Mean>vận</Mean>
+    <Genre></Genre>
+    <Example>vận chuyển, vận mệnh</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>8203748d-2d36-452f-b094-d78e7cb3b041</Id>
+    <Japanese>動</Japanese>
+    <Pronounce>doo</Pronounce>
+    <Mean>động</Mean>
+    <Genre></Genre>
+    <Example>[di chuyển] hoạt động, chuyển động</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>d26cad99-48e8-4c1c-9050-3ea78498b1a3</Id>
+    <Japanese>止</Japanese>
+    <Pronounce>shi</Pronounce>
+    <Mean>chỉ</Mean>
+    <Genre></Genre>
+    <Example>[Dừng] đình chỉ</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>b6237066-e03e-4472-9d2a-5500a3e9b2b6</Id>
+    <Japanese>歩</Japanese>
+    <Pronounce>ho, bu, fu</Pronounce>
+    <Mean>bộ</Mean>
+    <Genre></Genre>
+    <Example>[Đi bộ] bộ hành, tiến bộ</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>9061032c-1a44-4bee-97ea-4e939852aa38</Id>
+    <Japanese>使</Japanese>
+    <Pronounce>shi</Pronounce>
+    <Mean>sử, sứ</Mean>
+    <Genre></Genre>
+    <Example>[Bài 19 Thuận tiện] sử dụng; sứ giả, thiên sứ</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture>使.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>26695d03-e142-43b0-8efc-a40af1474c4b</Id>
+    <Japanese>送</Japanese>
+    <Pronounce>soo</Pronounce>
+    <Mean>tống</Mean>
+    <Genre></Genre>
+    <Example>[Gửi] tiễn, tống tiễn, tống đạt</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>41cfc6b4-72f5-498c-b4d4-058baaf07eec</Id>
+    <Japanese>洗</Japanese>
+    <Pronounce>sen</Pronounce>
+    <Mean>tiển</Mean>
+    <Genre></Genre>
+    <Example>rửa</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>ba45b8ae-3b59-465a-bd09-e64ecdadd9f7</Id>
+    <Japanese>急</Japanese>
+    <Pronounce>kyuu</Pronounce>
+    <Mean>cấp</Mean>
+    <Genre></Genre>
+    <Example>[Vội vàng] khẩn cấp, cấp cứu</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>d589754b-bdb1-49ab-b3db-c8b4916cec56</Id>
+    <Japanese>開</Japanese>
+    <Pronounce>kai</Pronounce>
+    <Mean>khai</Mean>
+    <Genre></Genre>
+    <Example>[Mở] khai mạc, khai giảng</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>e5bf2e37-a808-4aa7-ad51-7b45a32d8811</Id>
+    <Japanese>閉</Japanese>
+    <Pronounce>hei</Pronounce>
+    <Mean>bế</Mean>
+    <Genre></Genre>
+    <Example>[Đóng] bế mạc, bế quan</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>f298d7c2-b4d8-4725-a5ec-afc67b4321df</Id>
+    <Japanese>押</Japanese>
+    <Pronounce>oo</Pronounce>
+    <Mean>áp</Mean>
+    <Genre></Genre>
+    <Example>[Đóng,đẩy] ấn</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>3b1a3875-b55c-4d17-ba4d-73272ac75e93</Id>
+    <Japanese>引</Japanese>
+    <Pronounce>in</Pronounce>
+    <Mean>dẫn</Mean>
+    <Genre></Genre>
+    <Example>[Kéo] dẫn hỏa</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>5deb2a77-0c28-4da5-8d7b-fe3713ce16ce</Id>
+    <Japanese>思</Japanese>
+    <Pronounce>shi</Pronounce>
+    <Mean>tư</Mean>
+    <Genre></Genre>
+    <Example>nghĩ, suy tư, tư tưởng, tư duy</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>d76160a2-eae4-4983-bb98-a03d48ea747c</Id>
+    <Japanese>知</Japanese>
+    <Pronounce>chi</Pronounce>
+    <Mean>tri</Mean>
+    <Genre></Genre>
+    <Example>[Biết] tri thức, tri giác</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>7bd5142a-621c-4e33-b2c2-b1fb035b66dc</Id>
+    <Japanese>考</Japanese>
+    <Pronounce>koo</Pronounce>
+    <Mean>khảo</Mean>
+    <Genre></Genre>
+    <Example>[Nghĩ, ý tưởng] khảo sát, tư khảo</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>9f98bb07-254e-49ca-8aa9-889d246d188f</Id>
+    <Japanese>死</Japanese>
+    <Pronounce>shi</Pronounce>
+    <Mean>tử</Mean>
+    <Genre></Genre>
+    <Example>[Chết] tử thi, tự tử</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>a3465ad9-b68a-4473-9f3b-701ea1a63754</Id>
+    <Japanese>医</Japanese>
+    <Pronounce>I</Pronounce>
+    <Mean>y</Mean>
+    <Genre></Genre>
+    <Example>[Bác sĩ] y học, y viện</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>ec88c1bf-4ebf-48b4-b923-491222bcbc95</Id>
+    <Japanese>始</Japanese>
+    <Pronounce>shi</Pronounce>
+    <Mean>thủy</Mean>
+    <Genre></Genre>
+    <Example>[Bắt đầu] ban đầu, khai thủy, nguyên thủy</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>a1821d0e-e99a-4704-97ce-a05ad4f17467</Id>
+    <Japanese>終</Japanese>
+    <Pronounce>shuu</Pronounce>
+    <Mean>chung</Mean>
+    <Genre></Genre>
+    <Example>[Kết thúc] chung kết, chung liễu</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>c6d56c03-b7ed-4f84-9989-7c082874df0b</Id>
+    <Japanese>石</Japanese>
+    <Pronounce>seki, shaku, koku</Pronounce>
+    <Mean>thạch</Mean>
+    <Genre></Genre>
+    <Example>đá, thạch anh, bảo thạch</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>3ef5b245-f235-4c60-a8b5-c53dac104934</Id>
+    <Japanese>研</Japanese>
+    <Pronounce>ken</Pronounce>
+    <Mean>nghiên</Mean>
+    <Genre></Genre>
+    <Example>[Đánh bóng] mài, nghiên cứu</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>a0381d45-a9c1-4fa9-9aef-8ded4acf1705</Id>
+    <Japanese>究</Japanese>
+    <Pronounce>kyuu</Pronounce>
+    <Mean>cứu</Mean>
+    <Genre></Genre>
+    <Example>[Bài 17] nghiên cứu, cứu cánh</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>75ce3b15-712e-49ac-8f13-dedd0bdb0d7f</Id>
+    <Japanese>留</Japanese>
+    <Pronounce>ryuu, ru</Pronounce>
+    <Mean>lưu</Mean>
+    <Genre></Genre>
+    <Example>[Bài 17-- Ở ]  lưu học, lưu trữ</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>287f32ca-1db2-44d3-b200-e825cfd77cd6</Id>
+    <Japanese>有</Japanese>
+    <Pronounce>yuu, u</Pronounce>
+    <Mean>hữu</Mean>
+    <Genre></Genre>
+    <Example>[Bài 17-Tồn tại] sở hữu, hữu hạn</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>1d43714f-7aeb-47c3-aeef-a0ad974a20d6</Id>
+    <Japanese>産</Japanese>
+    <Pronounce>san</Pronounce>
+    <Mean>sản</Mean>
+    <Genre></Genre>
+    <Example>[Bài 17] sản xuất, sinh sản, cộng sản</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>2125f64f-4158-4d35-879b-6903aed21766</Id>
+    <Japanese>業</Japanese>
+    <Pronounce>gyoo, goo</Pronounce>
+    <Mean>nghiệp</Mean>
+    <Genre></Genre>
+    <Example>[Bài 17]  nghề nghiệp, công nghiệp, sự nghiệp</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture>業.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>e7e846c8-7bf9-4e53-b672-f8922730aba0</Id>
+    <Japanese>薬</Japanese>
+    <Pronounce>yaku</Pronounce>
+    <Mean>dược</Mean>
+    <Genre></Genre>
+    <Example>[Bài 17]  thuốc</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>82d61181-3363-4b9a-b17b-7ac074ace2a0</Id>
+    <Japanese>働</Japanese>
+    <Pronounce>doo</Pronounce>
+    <Mean>động</Mean>
+    <Genre></Genre>
+    <Example>[Bài 17]  lao động, làm việc</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>c4b816f1-d856-4759-a677-fb6ee0f02921</Id>
+    <Japanese>員</Japanese>
+    <Pronounce>in</Pronounce>
+    <Mean>viên</Mean>
+    <Genre></Genre>
+    <Example>[Bài 17] thành viên, nhân viên</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture>員.png</Picture>
+  </Entity>
+  <Entity>
+    <Id>7f4090e9-937c-4cf2-ad2a-77e50ce759f0</Id>
+    <Japanese>士</Japanese>
+    <Pronounce>shi</Pronounce>
+    <Mean>sĩ</Mean>
+    <Genre></Genre>
+    <Example>[Bài 17 Chiến binh]chiến sĩ, sĩ tử, bác sĩ</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>9b9eadd7-3141-4f43-bd95-106a1142c46d</Id>
+    <Japanese>仕</Japanese>
+    <Pronounce>shi, ji</Pronounce>
+    <Mean>sĩ</Mean>
+    <Genre></Genre>
+    <Example>[Bài 17- Phục vụ]  làm việc</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>28c14ebb-4b18-490e-85c1-c5dcd906e316</Id>
+    <Japanese>事</Japanese>
+    <Pronounce>ji, zu</Pronounce>
+    <Mean>sự</Mean>
+    <Genre></Genre>
+    <Example>[thứ "mọi thứ" ,Điều]sự việc</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>0f353c78-919e-46d6-907e-438ec01d28a9</Id>
+    <Japanese>図</Japanese>
+    <Pronounce>zu, to</Pronounce>
+    <Mean>đồ</Mean>
+    <Genre></Genre>
+    <Example>[Bài 18-Vẽ] bản đồ, đồ án, địa đồ</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>ddbe1e9f-a8bb-4cad-930a-8f579eef9c65</Id>
+    <Japanese>官</Japanese>
+    <Pronounce>kan</Pronounce>
+    <Mean>quan</Mean>
+    <Genre></Genre>
+    <Example>[Bài 18-Chính phủ, quan chức] quan lại</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>332f9a65-e5ed-4656-ac95-ee42f1fdf307</Id>
+    <Japanese>館</Japanese>
+    <Pronounce>kan</Pronounce>
+    <Mean>quán</Mean>
+    <Genre></Genre>
+    <Example>[Tòa nhà] đại sứ quán, hội quán</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>fc9c0e5a-d855-4a4e-8985-b84401e8f3f4</Id>
+    <Japanese>昔</Japanese>
+    <Pronounce>seki, shaku</Pronounce>
+    <Mean>tích</Mean>
+    <Genre></Genre>
+    <Example>[Bài 18 thời gian dài] ngày xưa</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture></Picture>
+  </Entity>
+  <Entity>
+    <Id>1b3e6bc8-768d-47d6-a581-3b2799f90b38</Id>
+    <Japanese>借</Japanese>
+    <Pronounce>shaku</Pronounce>
+    <Mean>tá</Mean>
+    <Genre></Genre>
+    <Example>[Bài 18] mượn, tá điền</Example>
+    <Speak />
+    <Date>27/01/2015</Date>
+    <Picture>借.png</Picture>
+  </Entity>
+</DocumentElement>

@@ -1,0 +1,48 @@
+E:\Project\Tip\Kanji\Tip\bin\Release\Tip 1.0.exe.config
+E:\Project\Tip\Kanji\Tip\bin\Release\Tip 1.0.exe.manifest
+E:\Project\Tip\Kanji\Tip\bin\Release\Tip 1.0.application
+E:\Project\Tip\Kanji\Tip\bin\Release\Tip 1.0.exe
+E:\Project\Tip\Kanji\Tip\bin\Release\Tip 1.0.pdb
+E:\Project\Tip\Kanji\Tip\bin\Release\ExcelLibrary.dll
+E:\Project\Tip\Kanji\Tip\bin\Release\GoogleTranslateWithNoApiHelper.dll
+E:\Project\Tip\Kanji\Tip\bin\Release\Newtonsoft.Json.dll
+E:\Project\Tip\Kanji\Tip\bin\Release\Newtonsoft.Json.pdb
+E:\Project\Tip\Kanji\Tip\bin\Release\Newtonsoft.Json.xml
+E:\Project\Tip\Kanji\Tip\obj\Release\Tip.AppForms.fAbout.resources
+E:\Project\Tip\Kanji\Tip\obj\Release\Tip.AppForms.fConfigAutoTip.resources
+E:\Project\Tip\Kanji\Tip\obj\Release\Tip.AppForms.fLanguages.resources
+E:\Project\Tip\Kanji\Tip\obj\Release\Tip.AppForms.fTip.resources
+E:\Project\Tip\Kanji\Tip\obj\Release\Tip.MainForm.resources
+E:\Project\Tip\Kanji\Tip\obj\Release\Tip.Properties.Resources.resources
+E:\Project\Tip\Kanji\Tip\obj\Release\Tip.csproj.GenerateResource.Cache
+E:\Project\Tip\Kanji\Tip\obj\Release\Tip 1.0.exe.manifest
+E:\Project\Tip\Kanji\Tip\obj\Release\Tip 1.0.application
+E:\Project\Tip\Kanji\Tip\obj\Release\Tip 1.0.exe
+E:\Project\Tip\Kanji\Tip\obj\Release\Tip 1.0.pdb
+E:\Project\Tip\Kanji\Tip\obj\Release\Tip.csprojResolveAssemblyReference.cache
+E:\Project\Tip\Kanji\Tip\obj\Release\Tip.fKanjiRun.resources
+E:\Project\Tip\Kanji\Tip\obj\Release\Tip.fTipTemp.resources
+E:\Project\Tip\KanjiImage\Tip\bin\Release\Tip 1.0.exe.config
+E:\Project\Tip\KanjiImage\Tip\obj\Release\Tip 1.0.exe
+E:\Project\Tip\KanjiImage\Tip\obj\Release\Tip 1.0.pdb
+E:\Project\Tip\KanjiImage\Tip\bin\Release\Tip 1.0.exe.manifest
+E:\Project\Tip\KanjiImage\Tip\bin\Release\Tip 1.0.application
+E:\Project\Tip\KanjiImage\Tip\bin\Release\Tip 1.0.exe
+E:\Project\Tip\KanjiImage\Tip\bin\Release\Tip 1.0.pdb
+E:\Project\Tip\KanjiImage\Tip\bin\Release\ExcelLibrary.dll
+E:\Project\Tip\KanjiImage\Tip\bin\Release\GoogleTranslateWithNoApiHelper.dll
+E:\Project\Tip\KanjiImage\Tip\bin\Release\Newtonsoft.Json.dll
+E:\Project\Tip\KanjiImage\Tip\bin\Release\Newtonsoft.Json.pdb
+E:\Project\Tip\KanjiImage\Tip\bin\Release\Newtonsoft.Json.xml
+E:\Project\Tip\KanjiImage\Tip\obj\Release\Tip.csprojResolveAssemblyReference.cache
+E:\Project\Tip\KanjiImage\Tip\obj\Release\Tip.AppForms.fAbout.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Release\Tip.AppForms.fConfigAutoTip.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Release\Tip.AppForms.fLanguages.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Release\Tip.AppForms.fTip.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Release\Tip.fKanjiRun.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Release\Tip.fTipTemp.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Release\Tip.MainForm.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Release\Tip.Properties.Resources.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Release\Tip.csproj.GenerateResource.Cache
+E:\Project\Tip\KanjiImage\Tip\obj\Release\Tip 1.0.exe.manifest
+E:\Project\Tip\KanjiImage\Tip\obj\Release\Tip 1.0.application

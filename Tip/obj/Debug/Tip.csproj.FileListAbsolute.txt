@@ -1,0 +1,124 @@
+G:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.csprojResolveAssemblyReference.cache
+G:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.AppForms.fAbout.resources
+G:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.AppForms.fConfigAutoTip.resources
+G:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.AppForms.fLanguages.resources
+G:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.AppForms.fTip.resources
+G:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.MainForm.resources
+G:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.Properties.Resources.resources
+G:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.csproj.GenerateResource.Cache
+G:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Tip 1.0.exe.config
+G:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Tip 1.0.exe.manifest
+G:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Tip 1.0.application
+G:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Tip 1.0.exe
+G:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Tip 1.0.pdb
+G:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Newtonsoft.Json.pdb
+G:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Newtonsoft.Json.xml
+G:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip 1.0.exe.manifest
+G:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip 1.0.application
+G:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip 1.0.exe
+G:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip 1.0.pdb
+F:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Tip 1.0.exe.config
+F:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip 1.0.exe
+F:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip 1.0.pdb
+E:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Tip 1.0.exe.config
+E:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip 1.0.exe
+E:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip 1.0.pdb
+E:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Tip 1.0.exe.manifest
+E:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Tip 1.0.application
+E:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Tip 1.0.exe
+E:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Tip 1.0.pdb
+E:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Newtonsoft.Json.pdb
+E:\Project\Manager All\DsCoffee\Tip\Tip\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.csprojResolveAssemblyReference.cache
+E:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.AppForms.fAbout.resources
+E:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.AppForms.fConfigAutoTip.resources
+E:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.AppForms.fLanguages.resources
+E:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.AppForms.fTip.resources
+E:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.MainForm.resources
+E:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.Properties.Resources.resources
+E:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip.csproj.GenerateResource.Cache
+E:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip 1.0.exe.manifest
+E:\Project\Manager All\DsCoffee\Tip\Tip\obj\Debug\Tip 1.0.application
+E:\Project\Tip\Tip\Tip\bin\Debug\Tip 1.0.exe.config
+E:\Project\Tip\Tip\Tip\obj\Debug\Tip 1.0.exe
+E:\Project\Tip\Tip\Tip\obj\Debug\Tip 1.0.pdb
+E:\Project\Tip\Tip\Tip\bin\Debug\Tip 1.0.exe.manifest
+E:\Project\Tip\Tip\Tip\bin\Debug\Tip 1.0.application
+E:\Project\Tip\Tip\Tip\bin\Debug\Tip 1.0.exe
+E:\Project\Tip\Tip\Tip\bin\Debug\Tip 1.0.pdb
+E:\Project\Tip\Tip\Tip\bin\Debug\Newtonsoft.Json.pdb
+E:\Project\Tip\Tip\Tip\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Tip\Tip\Tip\obj\Debug\Tip.csprojResolveAssemblyReference.cache
+E:\Project\Tip\Tip\Tip\obj\Debug\Tip.AppForms.fAbout.resources
+E:\Project\Tip\Tip\Tip\obj\Debug\Tip.AppForms.fConfigAutoTip.resources
+E:\Project\Tip\Tip\Tip\obj\Debug\Tip.AppForms.fLanguages.resources
+E:\Project\Tip\Tip\Tip\obj\Debug\Tip.AppForms.fTip.resources
+E:\Project\Tip\Tip\Tip\obj\Debug\Tip.MainForm.resources
+E:\Project\Tip\Tip\Tip\obj\Debug\Tip.Properties.Resources.resources
+E:\Project\Tip\Tip\Tip\obj\Debug\Tip.csproj.GenerateResource.Cache
+E:\Project\Tip\Tip\Tip\obj\Debug\Tip 1.0.exe.manifest
+E:\Project\Tip\Tip\Tip\obj\Debug\Tip 1.0.application
+E:\Project\Tip\Kanji\Tip\bin\Debug\Tip 1.0.exe.config
+E:\Project\Tip\Kanji\Tip\obj\Debug\Tip 1.0.exe
+E:\Project\Tip\Kanji\Tip\obj\Debug\Tip 1.0.pdb
+E:\Project\Tip\Kanji\Tip\bin\Debug\Tip 1.0.exe.manifest
+E:\Project\Tip\Kanji\Tip\bin\Debug\Tip 1.0.application
+E:\Project\Tip\Kanji\Tip\bin\Debug\Tip 1.0.exe
+E:\Project\Tip\Kanji\Tip\bin\Debug\Tip 1.0.pdb
+E:\Project\Tip\Kanji\Tip\bin\Debug\Newtonsoft.Json.pdb
+E:\Project\Tip\Kanji\Tip\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Tip\Kanji\Tip\obj\Debug\Tip.csprojResolveAssemblyReference.cache
+E:\Project\Tip\Kanji\Tip\obj\Debug\Tip.AppForms.fAbout.resources
+E:\Project\Tip\Kanji\Tip\obj\Debug\Tip.AppForms.fConfigAutoTip.resources
+E:\Project\Tip\Kanji\Tip\obj\Debug\Tip.AppForms.fLanguages.resources
+E:\Project\Tip\Kanji\Tip\obj\Debug\Tip.AppForms.fTip.resources
+E:\Project\Tip\Kanji\Tip\obj\Debug\Tip.MainForm.resources
+E:\Project\Tip\Kanji\Tip\obj\Debug\Tip.Properties.Resources.resources
+E:\Project\Tip\Kanji\Tip\obj\Debug\Tip.csproj.GenerateResource.Cache
+E:\Project\Tip\Kanji\Tip\obj\Debug\Tip 1.0.exe.manifest
+E:\Project\Tip\Kanji\Tip\obj\Debug\Tip 1.0.application
+E:\Project\Tip\KanjiImage\Tip\bin\Debug\Tip 1.0.exe.config
+E:\Project\Tip\KanjiImage\Tip\obj\Debug\Tip 1.0.exe
+E:\Project\Tip\KanjiImage\Tip\obj\Debug\Tip 1.0.pdb
+E:\Project\Tip\KanjiImage\Tip\bin\Debug\Tip 1.0.exe.manifest
+E:\Project\Tip\KanjiImage\Tip\bin\Debug\Tip 1.0.application
+E:\Project\Tip\KanjiImage\Tip\bin\Debug\Tip 1.0.exe
+E:\Project\Tip\KanjiImage\Tip\bin\Debug\Tip 1.0.pdb
+E:\Project\Tip\KanjiImage\Tip\bin\Debug\Newtonsoft.Json.pdb
+E:\Project\Tip\KanjiImage\Tip\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Tip\KanjiImage\Tip\obj\Debug\Tip.csprojResolveAssemblyReference.cache
+E:\Project\Tip\KanjiImage\Tip\obj\Debug\Tip.AppForms.fAbout.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Debug\Tip.AppForms.fConfigAutoTip.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Debug\Tip.AppForms.fLanguages.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Debug\Tip.AppForms.fTip.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Debug\Tip.fKanjiRun.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Debug\Tip.fTipTemp.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Debug\Tip.MainForm.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Debug\Tip.Properties.Resources.resources
+E:\Project\Tip\KanjiImage\Tip\obj\Debug\Tip.csproj.GenerateResource.Cache
+E:\Project\Tip\KanjiImage\Tip\obj\Debug\Tip 1.0.exe.manifest
+E:\Project\Tip\KanjiImage\Tip\obj\Debug\Tip 1.0.application
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\bin\Debug\Tip 1.0.exe.config
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\obj\Debug\Tip 1.0.exe
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\obj\Debug\Tip 1.0.pdb
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\bin\Debug\Tip 1.0.exe.manifest
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\bin\Debug\Tip 1.0.application
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\bin\Debug\Tip 1.0.exe
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\bin\Debug\Tip 1.0.pdb
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\bin\Debug\Newtonsoft.Json.pdb
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\bin\Debug\Newtonsoft.Json.xml
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\obj\Debug\Tip.csprojResolveAssemblyReference.cache
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\obj\Debug\Tip.AppForms.fAbout.resources
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\obj\Debug\Tip.AppForms.fConfigAutoTip.resources
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\obj\Debug\Tip.AppForms.fLanguages.resources
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\obj\Debug\Tip.AppForms.fTip.resources
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\obj\Debug\Tip.fKanjiRun.resources
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\obj\Debug\Tip.fTipTemp.resources
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\obj\Debug\Tip.MainForm.resources
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\obj\Debug\Tip.Properties.Resources.resources
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\obj\Debug\Tip.csproj.GenerateResource.Cache
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\obj\Debug\Tip 1.0.exe.manifest
+E:\Project\Tip\Vocabulary\Vocabulary\Tip\obj\Debug\Tip 1.0.application
+E:\Learning\Japanese\Vocabulary\Vocabulary\Tip\bin\Debug\Tip 1.0.exe.config
+E:\Learning\Japanese\Vocabulary\Vocabulary\Tip\obj\Debug\Tip 1.0.exe
+E:\Learning\Japanese\Vocabulary\Vocabulary\Tip\obj\Debug\Tip 1.0.pdb
